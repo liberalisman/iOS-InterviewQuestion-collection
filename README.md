@@ -13,5 +13,6 @@ iOS 开发者面试题集锦。
 - 7.`__weak` 和 `_unsafe_unretain` 的区别？
 - 8.为什么已经有了 `ARC` ,但还是需要 `@AutoreleasePool` 的存在？
 - 9.`__weak` 属性修饰的变量，如何实现在变量没有强引用后自动置为 `nil`？
+- 10.说一下 `retain`,`copy`,`assign`,`weak`,`__unsafe_unretain` 关键字。
 
 
