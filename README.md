@@ -87,4 +87,18 @@ iOS 开发者面试题集锦。
     - 7.`OSSpinLock`
     - 8.`pthread_mutex`
 
+## 5.项目架构
+- 1.什么是 `MVC`?
+- 2.什么是 `MVVM`?
+- 3.什么是 `MVP`?
+- 4.什么是 `CDD`?
+- 5.还了解哪些项目架构？
+
+## 6.消息传递的方式
+- 1.通知 `NSNotification`。
+- 2.键值监听 `KVO`。
+- 3.代理 `Delegate`。
+- 4.匿名函数 `Block`。
+
+
 
