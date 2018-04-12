@@ -41,3 +41,14 @@ iOS 开发者面试题集锦。
 - 15.说一下 `Runtime` 消息解析。
 - 16.说一下 `Runtime` 消息转发。
 
+#### 3.Runloop
+- 1.`Runloop` 和线程的关系？
+- 2.讲一下 `Runloop` 的 `Mode`?(越详细越好)
+- 3.讲一下 `Observer` ？（Mode中的重点）
+- 4.讲一下 `Runloop` 的内部实现逻辑？（运行过程）
+- 5.你所知的哪些三方框架使用了 `Runloop`?
+- 6.举例说明 `Runloop` 有哪些实际应用？（autoreleasePool、事件响应、手势识别、GCD、NSTimer、界面刷新、网络请求、PerformSelector等）
+- 7.如何使用 `Runloop` 实现一个常驻线程？这种线程一般有什么作用？
+- 8.为甚么 `NSTimer` 有时候不好使？（不同类型的Mode）
+- 9.`PerformSelector:afterDelay:`这个方法在子线程中为什么不起作用？该怎么解决？
+
