@@ -78,7 +78,13 @@ iOS 开发者面试题集锦。
 - 4.如何实现线性编程？（异步转为同步的几种方式）
 - 5.说一下 `GCD` 并发队列实现机制？
 - 6.多线程中的各类锁？
-    - 1.NSLock
-    - 2.NSContion
-    - 3.NSContionLock
+    - 1.`NSLock`
+    - 2.`NSContion`
+    - 3.`NSContionLock`
+    - 4.`NSRecursiveLock`
+    - 5.`Synchronized(self) {// code}`
+    - 6.`dispatch_semaphore`
+    - 7.`OSSpinLock`
+    - 8.`pthread_mutex`
+
 
