@@ -1,6 +1,7 @@
 # iOS-InterviewQuestion-collection
 iOS 开发者面试题集锦。
 
+## 0.数据结构及算法
 
 ## 1.iOS 内存管理
 
@@ -51,6 +52,7 @@ iOS 开发者面试题集锦。
 - 7.如何使用 `Runloop` 实现一个常驻线程？这种线程一般有什么作用？
 - 8.为甚么 `NSTimer` 有时候不好使？（不同类型的Mode）
 - 9.`PerformSelector:afterDelay:`这个方法在子线程中为什么不起作用？该怎么解决？
+- 10.利用 `runloop` 解释一下页面的渲染的过程？
 
 ## 4.网络
 - 1.`NSUrlConnect`相关知识。
@@ -92,13 +94,77 @@ iOS 开发者面试题集锦。
 - 2.什么是 `MVVM`?
 - 3.什么是 `MVP`?
 - 4.什么是 `CDD`?
-- 5.还了解哪些项目架构？
+- 5.有没有做过项目的组件化？
+- 6.还了解哪些项目架构？
 
 ## 6.消息传递的方式
 - 1.通知 `NSNotification`。
 - 2.键值监听 `KVO`。
 - 3.代理 `Delegate`。
-- 4.匿名函数 `Block`。
+- 4.匿名函数 `Block`。(__block的解释以及在 `ARC` 和 `MRC` 下有什么不同、内存管理、自动截取变量、处理循环引用)
 
+## 7.数据存储
+- 1.Sqlite3
+- 2.FMDB (`Sqlite3` 的封装)
+- 3.Realm
+- 4.NSKeyArchieve
+- 5.Preperfence
+- 6.Plist
+- 7.CoreDate
+- 8.Keychain
+
+## 8.iOS设计模式
+- 1.观察者模式
+- 2.代理委托模式
+- 3.单例模式
+- 4.类工厂模式
+- 5.外观模式
+- 6.中介者模式
+- 7.访问者模式
+- 8.装饰模式  等.....
+
+## 9.代码管理及持续集成
+- 1.Git
+- 2.Svn
+- 3.CocoaPods
+- 4.Carthage
+- 5.Fastlane
+- 6.Jenkins
+
+## 10.数据安全及加密
+- 1.RSA非对称加密
+- 2.AES对称加密
+- 3.DES加密
+- 4.Base64加密
+- 5.MD5加密
+- 6.解析 `SSL` 加密的过程用了哪些加密方法，为何这么作？
+
+## 11.源代码阅读
+- 1.YYKit
+- 2.SDWebImage
+- 3.AFNetworking
+- 4.SVProgressHub 等......
+
+## 12.iOS逆向及安全
+
+## 13.性能优化
+- 1.如何提升 tableview 的流畅度？
+
+## 14.扩展问题
+- 1.无痕埋点
+- 2.APM（应用程序性能监测）
+- 3.Hot Patch（热修补）
+
+## 14.其他问题
+- 1.`UIView` 和 `CALayer` 是什么关系？
+- 2.`Bounds` 和 `Frame` 的区别?
+- 3.`nil`、`NIL`、`NSNULL` 有什么区别？
+- 4.如何实现一个线程安全的 `NSMutableArray`?
+- 5.如何定义一台 `iOS` 设备的唯一性?
+- 6.如何高性能的画一个圆角？
+- 7.`load` 和 `Initialize` 的区别?
+- 8.`Designated Initializer`的规则？
+- 9.`App` 编译过程有了解吗？
+- 10.`JS` 和 `Native` 交互。
 
 
