@@ -1,4 +1,4 @@
-# iOS-InterviewQuestion-collection
+# iOS-InterviewQuestion-collection（未完待续。。。。）
 iOS 开发者面试题集锦。
 
 ## 0.数据结构及算法
@@ -41,6 +41,7 @@ iOS 开发者面试题集锦。
 - 14.说一下对 `class_ro_t` 的理解？
 - 15.说一下 `Runtime` 消息解析。
 - 16.说一下 `Runtime` 消息转发。
+- 17.说一下对 `runtime` 的理解。
 
 ## 3.Runloop
 - 1.`Runloop` 和线程的关系？
@@ -166,5 +167,7 @@ iOS 开发者面试题集锦。
 - 8.`Designated Initializer`的规则？
 - 9.`App` 编译过程有了解吗？
 - 10.`JS` 和 `Native` 交互。
+- 11.使用 `atomic` 一定是线程安全的吗？
+- 12.`LoadView`方法了解吗？
 
 
