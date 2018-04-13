@@ -73,6 +73,7 @@ iOS 开发者面试题集锦。
 - 15.`Wireshark`、`Charles`、`Paw` 等工具会使用吗？
 - 16.`NSUrlProtocol`用过吗？运载什么地方了？
 - 17.如何在测试过程中抹蜜各种网络环境？
+- 18.网络的 `DNS` 优化。
 
 ## 5.多线程
 - 1.`NSThread`相关知识？
@@ -89,6 +90,7 @@ iOS 开发者面试题集锦。
     - 6.`dispatch_semaphore`
     - 7.`OSSpinLock`
     - 8.`pthread_mutex`
+- 7.如何确保线程安全？
 
 ## 5.项目架构
 - 1.什么是 `MVC`?
@@ -105,7 +107,7 @@ iOS 开发者面试题集锦。
 - 4.匿名函数 `Block`。(__block的解释以及在 `ARC` 和 `MRC` 下有什么不同、内存管理、自动截取变量、处理循环引用)
 
 ## 7.数据存储
-- 1.Sqlite3
+- 1.Sqlite3 （不同版本的APP，数据库结构变化了，如何处理? ）
 - 2.FMDB (`Sqlite3` 的封装)
 - 3.Realm
 - 4.NSKeyArchieve
@@ -170,6 +172,8 @@ iOS 开发者面试题集锦。
 - 11.使用 `atomic` 一定是线程安全的吗？
 - 12.`LoadView`方法了解吗？
 - 13.说一下对 `APNS` 的认识？
-- 
+- 14.实现 `isEqual` 和 `hash` 方法时要注意什么？
+- 15.`UIButton` 的父类是什么？`UILabel` 的父类又是什么？
+- 16.实现一个控件，可以浮在任意界面的上层并支持拖动？
 
 
