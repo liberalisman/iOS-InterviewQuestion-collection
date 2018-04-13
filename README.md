@@ -1,6 +1,7 @@
 # iOS-InterviewQuestion-collection（未完待续。。。。）
 
 > 最近正在准备面试，所以自己边复习边整理，列出了一些自己复习的知识点.
+> 
 > 后面的一些知识模块还没有延展开，因为有的地方自己理解的还不到位，我还需要时间仔细整理。
 > 
 > 欢迎大家提PR！
@@ -130,6 +131,7 @@
 - 6.Plist
 - 7.CoreDate
 - 8.Keychain
+- 9.UIPasteBoard(感谢 lilingyu0620 同学提醒)
 
 ## 8.iOS设计模式
 - 1.观察者模式
