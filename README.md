@@ -21,9 +21,16 @@
 
 
 ### ①.数据结构
+- 1.数组
+- 2.字符串
+- 3.链表
+- 4.树
+- 5.栈
+- 6.队列
 
 ### ②.算法
-1.排序算法-[链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/算法集合/排序算法/排序算法.md)
+
+- 1.排序算法-[链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/算法集合/排序算法/排序算法.md)
 
 
 
@@ -95,8 +102,8 @@
 - 13.`断点续传` 功能该怎么实现？
 - 14.封装一个网络框架有哪些注意点？
 - 15.`Wireshark`、`Charles`、`Paw` 等工具会使用吗？
-- 16.`NSUrlProtocol`用过吗？运载什么地方了？
-- 17.如何在测试过程中抹蜜各种网络环境？
+- 16.`NSUrlProtocol`用过吗？用在什么地方了？
+- 17.如何在测试过程中MOCK各种网络环境？
 - 18.网络的 `DNS` 优化。
 - 19.`Post`请求体有哪些格式？
 
@@ -116,6 +123,7 @@
     - 7.`OSSpinLock`
     - 8.`pthread_mutex`
 - 7.如何确保线程安全？
+- 8.`NSMutableArray`、和 `NSMutableDictionary`是线程安全的吗？`NSCache`呢？
 
 ## 5.项目架构
 - 1.什么是 `MVC`?
@@ -123,7 +131,7 @@
 - 3.什么是 `MVP`?
 - 4.什么是 `CDD`?
 - 5.有没有做过项目的组件化？
-- 6.还了解哪些项目架构？
+- 6.还了解哪些项目架构？你之前所在公司的架构师什么样的，简单说一下？
 
 ## 6.消息传递的方式
 - 1.通知 `NSNotification`。
@@ -145,7 +153,7 @@
 ## 8.iOS设计模式
 - 1.观察者模式
 - 2.代理委托模式
-- 3.单例模式
+- 3.单例模式（能不能现场手写一个？）
 - 4.类工厂模式
 - 5.外观模式
 - 6.中介者模式
