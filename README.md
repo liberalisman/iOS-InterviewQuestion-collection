@@ -26,7 +26,7 @@
 - 3.`ARC` 自动内存管理的原则？
 - 4.访问 `__weak` 修饰的变量，是否已经被注册在了 `@autoreleasePool` 中？为什么？
 - 5.`ARC` 的 `retainCount` 怎么存储的？
-- 6.`AutoreleasePool` 数据结构？
+- 6.简要说一下 `@autoreleasePool` 的数据结构？
 - 7.`__weak` 和 `_Unsafe_Unretain` 的区别？
 - 8.为什么已经有了 `ARC` ,但还是需要 `@AutoreleasePool` 的存在？
 - 9.`__weak` 属性修饰的变量，如何实现在变量没有强引用后自动置为 `nil`？
@@ -37,8 +37,8 @@
 - 14.说一下什么是 `悬垂指针`？什么是 `野指针`?
 - 15.内存管理默认的关键字是什么？
 - 16.内存中的5大区分别是什么？
-- 17.简要说一下自动引用计数的数据存储结构？
-- 18.简要说一下 `@autoreleasePool` 的数据结构？
+- 17.是否了解 `深拷贝` 和 `浅拷贝` 的概念，集合类深拷贝如何实现？
+
 
 ## 2.Runtime
 - 1.实例对象的数据结构？
@@ -64,11 +64,11 @@
 - 2.讲一下 `Runloop` 的 `Mode`?(越详细越好)
 - 3.讲一下 `Observer` ？（Mode中的重点）
 - 4.讲一下 `Runloop` 的内部实现逻辑？（运行过程）
-- 5.你所知的哪些三方框架使用了 `Runloop`?
+- 5.你所知的哪些三方框架使用了 `Runloop`?（AFNetworking、Texture 等）
 - 6.举例说明 `Runloop` 有哪些实际应用？（autoreleasePool、事件响应、手势识别、GCD、NSTimer、界面刷新、网络请求、PerformSelector等）
 - 7.如何使用 `Runloop` 实现一个常驻线程？这种线程一般有什么作用？
-- 8.为甚么 `NSTimer` 有时候不好使？（不同类型的Mode）
-- 9.`PerformSelector:afterDelay:`这个方法在子线程中为什么不起作用？该怎么解决？
+- 8.为什么 `NSTimer` 有时候不好使？（不同类型的Mode）
+- 9.`PerformSelector:afterDelay:`这个方法在子线程中是否起作用？为什么？怎么解决？
 - 10.利用 `runloop` 解释一下页面的渲染的过程？
 
 ## 4.网络
@@ -90,6 +90,7 @@
 - 16.`NSUrlProtocol`用过吗？运载什么地方了？
 - 17.如何在测试过程中抹蜜各种网络环境？
 - 18.网络的 `DNS` 优化。
+- 19.`Post`请求体有哪些格式？
 
 ## 5.多线程
 - 1.`NSThread`相关知识？
@@ -118,7 +119,7 @@
 
 ## 6.消息传递的方式
 - 1.通知 `NSNotification`。
-- 2.键值监听 `KVO`。
+- 2.键值监听 `KVO`。（KVO实现机制，使用的注意点，替代品、注册依赖键、手动通知等）
 - 3.代理 `Delegate`。
 - 4.匿名函数 `Block`。(__block的解释以及在 `ARC` 和 `MRC` 下有什么不同、内存管理、自动截取变量、处理循环引用)
 
@@ -143,13 +144,16 @@
 - 7.访问者模式
 - 8.装饰模式  等.....
 
-## 9.代码管理及持续集成
+## 9.代码管理、持续集成、项目托管
 - 1.Git
 - 2.Svn
 - 3.CocoaPods
 - 4.Carthage
 - 5.Fastlane
 - 6.Jenkins
+- 7.fir.im
+- 8.蒲公英
+- 9.TestFlight
 
 ## 10.数据安全及加密
 - 1.RSA非对称加密
@@ -160,10 +164,10 @@
 - 6.解析 `SSL` 加密的过程用了哪些加密方法，为何这么作？
 
 ## 11.源代码阅读
-- 1.**YYKit**
-- 2.**SDWebImage**
-- 3.**AFNetworking**
-- 4.**SVProgressHub** 等......
+- 1.YYKit
+- 2.SDWebImage
+- 3.AFNetworking
+- 4.SVProgressHub 等......
 
 ## 12.iOS逆向及安全
 
