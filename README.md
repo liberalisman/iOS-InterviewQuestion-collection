@@ -21,7 +21,7 @@
 ### ①.数据结构
 
 ### ②.算法
-1.排序算法[排序算法](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/算法集合/排序算法/排序算法.md)
+1.排序算法-[链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/算法集合/排序算法/排序算法.md)
 
 
 
