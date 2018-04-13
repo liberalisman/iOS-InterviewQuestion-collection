@@ -28,9 +28,10 @@
 - 5.栈
 - 6.队列
 
-### ②.算法
+### ②.算法（待写）
 
-- 1.排序算法-[链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/算法集合/排序算法/排序算法.md)
+- 1.排序算法 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/算法集合/排序算法.md)
+- 2.二维数组查找 - [剑指Offer 38 页](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/算法集合/二维数组查找.md)
 
 
 
