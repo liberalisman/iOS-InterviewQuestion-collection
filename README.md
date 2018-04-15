@@ -33,10 +33,19 @@
 
 ### ②.算法（待写）
 
-- 1.排序算法 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/算法集合/排序算法.md)。
+- 1.排序算法
+ - 冒泡排序
+ - 快速排序
+ - 插入排序
+ - 希尔排序
+ - 选择排序
+ - 堆排序
+ - 归并排序
+ 
 - 2.二维数组查找 - [剑指Offer 38 页](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/算法集合/二维数组查找.md)。
 - 3.手写单例。
 - 4.LeetCode算法题系列 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/算法集合/LeetCode算法题.md)
+
 
 
 
