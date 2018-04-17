@@ -164,7 +164,7 @@
 ## 10.代码管理、持续集成、项目托管
 - 1.Git
 - 2.Svn
-- 3.CocoaPods
+- 3.CocoaPods（说一下 CocoaPods 的原理？如何让自己写的框架支持 CocoaPods？）
 - 4.Carthage
 - 5.Fastlane
 - 6.Jenkins
