@@ -19,8 +19,6 @@
 
 ## 0.数据结构及算法
 
-> 数据结构和算法这一块正在看，这周会整理出一些常见的算法题。
-
 
 ### ①.数据结构
 - 1.数组
@@ -31,15 +29,9 @@
 - 6.队列
 - 7.哈希表
 
-### ②.算法（待写）
+### ②.算法
 
-- 1.排序算法(冒泡排序、快速排序、插入排序、希尔排序、选择排序、堆排序、归并排序) 
-- 2.二维数组查找 - [剑指Offer 38 页](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/算法集合/二维数组查找.md)。
-- 3.手写单例。
-- 4.LeetCode算法题系列 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/算法集合/LeetCode算法题.md)
-
-
-
+算法系列决定不再自己写了，因为已经有了很好的总结。 - [链接](https://github.com/CyC2018/Interview-Notebook)
 
 ## 1.iOS 内存管理
 
