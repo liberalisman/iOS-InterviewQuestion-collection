@@ -168,9 +168,9 @@
     - 1.说一下 `CocoaPods` 的原理？
     - 2.如何让自己写的框架支持 `CocoaPods`？
     - 3.`pod update` 和 `pod install` 有什么区别？
-    - 4.`Podfile.lock` 文件起什么作用？
-    - 5.如何集成本地私有库？
-    - 6.如何集成远程私有库
+    - 4.`Podfile.lock` 文件起什么作用？
+    - 5.如何集成本地私有库？
+    - 6.如何集成远程私有库 ？
 - 4.Carthage
 - 5.Fastlane
 - 6.Jenkins
