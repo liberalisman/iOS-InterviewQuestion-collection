@@ -73,6 +73,8 @@
 - 15.说一下 `Runtime` 消息解析。
 - 16.说一下 `Runtime` 消息转发。
 - 17.说一下对 `runtime` 的理解。（主要讲一下消息机制，是对上述的总结）
+- 18.`Category` 有哪些用途？
+- 19.`Category` 和 `Extension` 有什么区别？
 
 ## 3.Runloop
 - 1.`Runloop` 和线程的关系？
