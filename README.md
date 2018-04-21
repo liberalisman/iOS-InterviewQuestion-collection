@@ -62,7 +62,7 @@
 - 4.`Category` 的实现原理？
 - 5.如何给 `Category` 添加属性？关联对象以什么形式进行存储？
 - 6.`Category` 有哪些用途？
-- 7.`Category` 和 `Extension` 有什么区别？
+- 7.`Category` 和 `Extension` 有什么区别？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Runtime/分类和类拓展的区别.md)
 - 8.说一下 `Method Swizzling`? 说一下在实际开发中你在什么场景下使用过?
 - 9.如何实现动态添加方法和属性？
 - 10.说一下对 `isa` 指针的理解， 对象的`isa` 指针指向哪里？（注意区分不同对象）
