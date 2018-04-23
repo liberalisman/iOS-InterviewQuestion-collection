@@ -85,7 +85,7 @@
 - 4.讲一下 `Runloop` 的内部实现逻辑？（运行过程）
 - 5.你所知的哪些三方框架使用了 `Runloop`?（AFNetworking、Texture 等）
 - 6.举例说明 `Runloop` 有哪些实际应用？
-    - 1. `autoreleasePool` 在何时被释放？
+    - 1.`autoreleasePool` 在何时被释放？
     - 2.解释一下 `事件响应` 的过程？
     - 3.解释一下 `手势识别` 的过程？
     - 4.解释一下 `GCD` 在 `Runloop` 中的使用？
