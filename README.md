@@ -39,7 +39,7 @@
 - 3.`ARC` 自动内存管理的原则？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/1.内存管理/3.第三题.md)
 - 4.访问 `__weak` 修饰的变量，是否已经被注册在了 `@autoreleasePool` 中？为什么？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/1.内存管理/4.第四题.md)
 - 5.`ARC` 的 `retainCount` 怎么存储的？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/1.内存管理/5.第五题.md)
-- 6.简要说一下 `@autoreleasePool` 的数据结构？
+- 6.简要说一下 `@autoreleasePool` 的数据结构？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/1.内存管理/6.第六题.md)
 - 7.`__weak` 和 `_Unsafe_Unretain` 的区别？
 - 8.为什么已经有了 `ARC` ,但还是需要 `@AutoreleasePool` 的存在？
 - 9.`__weak` 属性修饰的变量，如何实现在变量没有强引用后自动置为 `nil`？
