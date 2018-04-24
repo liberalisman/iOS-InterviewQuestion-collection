@@ -35,7 +35,7 @@
 
 ## 1.iOS 内存管理
 - 1.讲一下 `iOS` 内存管理的理解？(三种方案的结合) - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/1.内存管理/1.讲一下iOS内存管理的理解.md)
-- 2.自动引用计（`ARC`）数应该遵循的原则?
+- 2.使用自动引用计（`ARC`）数应该遵循的原则? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/1.内存管理/2.使用自动引用计数应遵循的原则.md)
 - 3.`ARC` 自动内存管理的原则？
 - 4.访问 `__weak` 修饰的变量，是否已经被注册在了 `@autoreleasePool` 中？为什么？
 - 5.`ARC` 的 `retainCount` 怎么存储的？
