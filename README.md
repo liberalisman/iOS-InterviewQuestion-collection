@@ -34,11 +34,11 @@
 算法系列决定不再自己写了，因为已经有了很好的总结。 - [链接](https://github.com/CyC2018/Interview-Notebook)
 
 ## 1.iOS 内存管理
-- 1.讲一下 `iOS` 内存管理的理解？(三种方案的结合) - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/1.内存管理/1.讲一下iOS内存管理的理解.md)
-- 2.使用自动引用计（`ARC`）数应该遵循的原则? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/1.内存管理/2.使用自动引用计数应遵循的原则.md)
-- 3.`ARC` 自动内存管理的原则？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/1.内存管理/3.ARC自动内存管理的原则.md)
-- 4.访问 `__weak` 修饰的变量，是否已经被注册在了 `@autoreleasePool` 中？为什么？
-- 5.`ARC` 的 `retainCount` 怎么存储的？
+- 1.讲一下 `iOS` 内存管理的理解？(三种方案的结合) - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/1.内存管理/1.第一题.md)
+- 2.使用自动引用计（`ARC`）数应该遵循的原则? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/1.内存管理/2.第二题.md)
+- 3.`ARC` 自动内存管理的原则？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/1.内存管理/3.第三题.md)
+- 4.访问 `__weak` 修饰的变量，是否已经被注册在了 `@autoreleasePool` 中？为什么？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/1.内存管理/3.第四题.md)
+- 5.`ARC` 的 `retainCount` 怎么存储的？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/1.内存管理/3.第五题.md)
 - 6.简要说一下 `@autoreleasePool` 的数据结构？
 - 7.`__weak` 和 `_Unsafe_Unretain` 的区别？
 - 8.为什么已经有了 `ARC` ,但还是需要 `@AutoreleasePool` 的存在？
