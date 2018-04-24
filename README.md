@@ -214,6 +214,8 @@
 
 ## 17.代码管理、持续集成、项目托管
 - 1.Git
+    - 1.`git pull` 和 `git fetch` 的区别？
+    - 2.`git merge` 和 `git rebase` 的区别？ 
 - 2.Svn
 - 3.CocoaPods
     - 1.说一下 `CocoaPods` 的原理？
