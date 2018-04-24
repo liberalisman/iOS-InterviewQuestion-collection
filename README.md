@@ -34,8 +34,7 @@
 算法系列决定不再自己写了，因为已经有了很好的总结。 - [链接](https://github.com/CyC2018/Interview-Notebook)
 
 ## 1.iOS 内存管理
-
-- 1.`@autoreleasrPool` 的释放时机？
+- 1.讲一下 `iOS` 内存管理的理解？(三种方案的结合)
 - 2.自动引用计（`ARC`）数应该遵循的原则?
 - 3.`ARC` 自动内存管理的原则？
 - 4.访问 `__weak` 修饰的变量，是否已经被注册在了 `@autoreleasePool` 中？为什么？
@@ -53,6 +52,8 @@
 - 16.内存中的5大区分别是什么？
 - 17.是否了解 `深拷贝` 和 `浅拷贝` 的概念，集合类深拷贝如何实现？
 - 18.`BAD_ACCESS` 在什么情况下出现?
+- 19.讲一下 `@dynamic` 关键字？
+- 20.`@autoreleasrPool` 的释放时机？
 
 
 ## 2.Runtime
@@ -65,7 +66,7 @@
 - 7.`Category` 和 `Extension` 有什么区别？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Runtime/分类和类拓展的区别.md)
 - 8.说一下 `Method Swizzling`? 说一下在实际开发中你在什么场景下使用过?
 - 9.如何实现动态添加方法和属性？
-- 10.说一下对 `isa` 指针的理解， 对象的`isa` 指针指向哪里？（注意区分不同对象）
+- 10.说一下对 `isa` 指针的理解， 对象的`isa` 指针指向哪里？`isa` 指针有哪两种类型？（注意区分不同对象）
 - 11.`Obj-C` 中的类信息存放在哪里？
 - 12.一个 `NSObject` 对象占用多少内存空间？
 - 13.说一下对 `class_rw_t` 的理解？
@@ -76,6 +77,8 @@
 - 18.如何运用 `Runtime` 进行模型的归解档？
 - 19.在 `Obj-C` 中为什么叫发消息而不叫函数调用？
 - 20.说一下对 `runtime` 的理解。（主要讲一下消息机制，是对上述的总结）
+- 21.说一下 `Runtime` 的方法缓存？存储的形式、数据结构以及查找的过程？
+- 22.是否了解 `Type Encoding`?
 
 
 ## 3.Runloop
