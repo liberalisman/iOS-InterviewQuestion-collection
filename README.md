@@ -6,6 +6,8 @@
 > 
 > 这个仓库根据我的设想，我认为还远远没有完成，后续会不断更新，起初并不想写答案，但一是有的人需要，二是，我自己写一个很简单的思路，起一个提示的作用，如果有想错的地方，也欢迎大家指正。
 > 
+> 再次说明：所有的答案只写思路，不会长篇大论的验证，只起到提示作用。
+> 
 > 欢迎大家提PR！
 
 
@@ -62,9 +64,9 @@
 - 1.实例对象的数据结构？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/2.Runtime/1.第一题.md)
 - 2.类对象的数据结构？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/2.Runtime/2.第二题.md)
 - 3.元类对象的数据结构? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/2.Runtime/3.第三题.md)
-- 4.`Category` 的实现原理？
-- 5.如何给 `Category` 添加属性？关联对象以什么形式进行存储？
-- 6.`Category` 有哪些用途？
+- 4.`Category` 的实现原理？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/2.Runtime/4.第四题.md)
+- 5.如何给 `Category` 添加属性？关联对象以什么形式进行存储？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/2.Runtime/5.第五题.md)
+- 6.`Category` 有哪些用途？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/2.Runtime/6.第六题.md)
 - 7.`Category` 和 `Extension` 有什么区别？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/2.Runtime/7.第七题.md)
 - 8.说一下 `Method Swizzling`? 说一下在实际开发中你在什么场景下使用过?
 - 9.如何实现动态添加方法和属性？
@@ -301,6 +303,7 @@
 - 22.`@synthesize` 和 `@dynamic` 分别有什么作用？
 - 23.`Obj-C` 中的反射机制了解吗？
 - 24.`atomic` 修饰的属性是绝对安全的吗？为什么？
+- 25.`id` 和 `instanceType` 有什么区别？
 
 
 ## 25.计算题
