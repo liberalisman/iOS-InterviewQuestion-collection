@@ -75,11 +75,11 @@
 - 12.一个 `NSObject` 对象占用多少内存空间？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/2.Runtime/12.第十二题.md)
 - 13.说一下对 `class_rw_t` 的理解？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/2.Runtime/13.第十三题.md)
 - 14.说一下对 `class_ro_t` 的理解？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/2.Runtime/14.第十四题.md)
-- 15.说一下 `Runtime` 消息解析。
-- 16.说一下 `Runtime` 消息转发。
-- 17.如何运用 `Runtime` 字典转模型？
-- 18.如何运用 `Runtime` 进行模型的归解档？
-- 19.在 `Obj-C` 中为什么叫发消息而不叫函数调用？
+- 15.说一下 `Runtime` 消息解析。- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/2.Runtime/15.第十五题.md)
+- 16.说一下 `Runtime` 消息转发。- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/2.Runtime/15.第十五题.md)
+- 17.如何运用 `Runtime` 字典转模型？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/2.Runtime/17.第十七题.md)
+- 18.如何运用 `Runtime` 进行模型的归解档？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/2.Runtime/18.第十八题.md)
+- 19.在 `Obj-C` 中为什么叫发消息而不叫函数调用？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/2.Runtime/19.第十九题.md)
 - 20.说一下对 `runtime` 的理解。（主要讲一下消息机制，是对上述的总结）
 - 21.说一下 `Runtime` 的方法缓存？存储的形式、数据结构以及查找的过程？
 - 22.是否了解 `Type Encoding`?
