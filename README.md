@@ -87,9 +87,9 @@
 
 ## 3.Runloop
 - 1.`Runloop` 和线程的关系？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/3.Runloop/1.第一题.md)
-- 2.讲一下 `Runloop` 的 `Mode`?(越详细越好)  - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/3.Runloop/2.第一题.md)
-- 3.讲一下 `Observer` ？（Mode中的重点）
-- 4.讲一下 `Runloop` 的内部实现逻辑？（运行过程）
+- 2.讲一下 `Runloop` 的 `Mode`?(越详细越好)  - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/3.Runloop/2.第二题.md)
+- 3.讲一下 `Observer` ？（Mode中的重点） - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/3.Runloop/3.第三题.md)
+- 4.讲一下 `Runloop` 的内部实现逻辑？（运行过程） - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/3.Runloop/4.第四题.md)
 - 5.你所知的哪些三方框架使用了 `Runloop`?（AFNetworking、Texture 等）
 - 6.举例说明 `Runloop` 有哪些实际应用？
     - 1.`autoreleasePool` 在何时被释放？
