@@ -82,7 +82,7 @@
 - 19.在 `Obj-C` 中为什么叫发消息而不叫函数调用？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/2.Runtime/19.第十九题.md)
 - 20.说一下对 `runtime` 的理解。（主要讲一下消息机制，是对上述的总结）
 - 21.说一下 `Runtime` 的方法缓存？存储的形式、数据结构以及查找的过程？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/2.Runtime/21.第二十一题.md)
-- 22.是否了解 `Type Encoding`?- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/2.Runtime/22.第二十二题.md)
+- 22.是否了解 `Type Encoding`? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/2.Runtime/22.第二十二题.md)
 
 
 ## 3.Runloop
