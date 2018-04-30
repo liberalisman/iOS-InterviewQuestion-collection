@@ -91,19 +91,18 @@
 - 3.讲一下 `Observer` ？（Mode中的重点） - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/3.Runloop/3.第三题.md)
 - 4.讲一下 `Runloop` 的内部实现逻辑？（运行过程） - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/3.Runloop/4.第四题.md)
 - 5.你所知的哪些三方框架使用了 `Runloop`?（AFNetworking、Texture 等）
-- 6.举例说明 `Runloop` 有哪些实际应用？
-    - 1.`autoreleasePool` 在何时被释放？
-    - 2.解释一下 `事件响应` 的过程？
-    - 3.解释一下 `手势识别` 的过程？
-    - 4.解释一下 `GCD` 在 `Runloop` 中的使用？
-    - 5.解释一下 `NSTimer`。
-    - 6.`AFNetworking` 中如何运用 `Runloop`?
-    - 7.`PerformSelector` 的实现原理？
-    - 8.利用 `runloop` 解释一下页面的渲染的过程？
-- 7.如何使用 `Runloop` 实现一个常驻线程？这种线程一般有什么作用？
-- 8.为什么 `NSTimer` 有时候不好使？（不同类型的Mode）
-- 9.`PerformSelector:afterDelay:`这个方法在子线程中是否起作用？为什么？怎么解决？
-- 10.什么是异步绘制？
+- 6.`autoreleasePool` 在何时被释放？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/3.Runloop/6.第六题.md)
+- 7.解释一下 `事件响应` 的过程？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/3.Runloop/7.第七题.md)
+- 8.解释一下 `手势识别` 的过程？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/3.Runloop/8.第八题.md)
+- 9.解释一下 `GCD` 在 `Runloop` 中的使用？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/3.Runloop/9.第九题.md)
+- 10.解释一下 `NSTimer`。 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/3.Runloop/10.第十题.md)
+- 11.`AFNetworking` 中如何运用 `Runloop`?
+- 12.`PerformSelector` 的实现原理？
+- 13.利用 `runloop` 解释一下页面的渲染的过程？
+- 14.如何使用 `Runloop` 实现一个常驻线程？这种线程一般有什么作用？
+- 15.为什么 `NSTimer` 有时候不好使？（不同类型的Mode）
+- 16.`PerformSelector:afterDelay:`这个方法在子线程中是否起作用？为什么？怎么解决？
+- 17.什么是异步绘制？
 
 
 ## 4.网络
