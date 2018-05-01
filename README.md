@@ -133,17 +133,16 @@
 - 3.`NSOperation` 和 `NSOperationQueue`相关知识？（最大并发数、线程依赖）
 - 4.如何实现线性编程？（异步转为同步的几种方式）（信号量、栅栏、Dispatch_group等）
 - 5.说一下 `GCD` 并发队列实现机制？
-- 6.多线程中的各类锁？
-    - 1.`NSLock`
-    - 2.`NSContion`
-    - 3.`NSContionLock`
-    - 4.`NSRecursiveLock`
-    - 5.`Synchronized(self) {// code}`
-    - 6.`dispatch_semaphore`
-    - 7.`OSSpinLock`
-    - 8.`pthread_mutex`
-- 7.如何确保线程安全？
-- 8.`NSMutableArray`、和 `NSMutableDictionary`是线程安全的吗？`NSCache`呢？
+- 6.`NSLock`
+- 7.`NSContion`
+- 8.`NSContionLock`
+- 9.`NSRecursiveLock`
+- 10.`Synchronized(self) {// code}`
+- 11.信号量 - `dispatch_semaphore`
+- 12.自旋锁 - `OSSpinLock`  - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/5.多线程/10.第十二题.md)
+- 13.`pthread_mutex`
+- 14.如何确保线程安全？
+- 15.`NSMutableArray`、和 `NSMutableDictionary`是线程安全的吗？`NSCache`呢？
 
 ## 6.项目架构
 - 1.什么是 `MVC`?
