@@ -138,8 +138,8 @@
 - 8.`NSContionLock`
 - 9.`NSRecursiveLock`
 - 10.`Synchronized(self) {// code}`
-- 11.信号量 - `dispatch_semaphore`
-- 12.自旋锁 - `OSSpinLock`  - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/5.多线程/10.第十二题.md)
+- 11.信号量 - `dispatch_semaphore`。 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/5.多线程/11.第十一题.md)
+- 12.自旋锁 - `OSSpinLock` 。 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/5.多线程/12.第十二题.md)
 - 13.`pthread_mutex`
 - 14.如何确保线程安全？
 - 15.`NSMutableArray`、和 `NSMutableDictionary`是线程安全的吗？`NSCache`呢？
