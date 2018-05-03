@@ -58,6 +58,8 @@
 - 18.`BAD_ACCESS` 在什么情况下出现? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/1.内存管理/18.第十八题.md)
 - 19.讲一下 `@dynamic` 关键字？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/1.内存管理/19.第十九题.md)
 - 20.`@autoreleasrPool` 的释放时机？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/1.内存管理/20.第二十题.md)
+- 21.`retain`、`release` 的实现机制？
+- 22.能不能简述一下 `Dealloc` 的实现机制？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/1.内存管理/22.第二十二题.md)
 
 
 ## 2.Runtime
