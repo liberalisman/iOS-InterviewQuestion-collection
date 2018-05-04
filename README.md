@@ -111,8 +111,8 @@
 - 1.`NSUrlConnect`相关知识。
 - 2.`NSUrlSession`相关知识。
 - 3.`Http` 和 `Https` 的区别？为什么更加安全？
-- 4.`Https` 的加密过程？（SSL加密、现已到TLS）
-- 5.解释一下 `三次握手` 和 `四次挥手`？也可以说网络连接的过程）
+- 4.`Http`的请求方式有哪些？`Http` 有什么特性？
+- 5.解释一下 `三次握手` 和 `四次挥手`？解释一下为什么是`三次握手` 又为什么是 `四次挥手`？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/4.网络/5.第五题.md)
 - 6.`GET` 和 `POST` 请求的区别？
 - 7.`HTTP` 请求报文 和 响应报文的结构？
 - 8.什么是 `Mimetype` ?
@@ -128,6 +128,10 @@
 - 18.网络的 `DNS` 优化。
 - 19.`Post`请求体有哪些格式？
 - 20.网络请求的状态码都大致代表什么意思？(1xx,2xx,3xx,4xx,5xx)
+- 21.抓包软件 `Charles` 的原理是什么？说一下中间人攻击的过程。
+- 22.如何判断一个请求是否结束？
+- 23.`Https` 的加密过程？（SSL加密、现已到TLS）
+- 24.解释一下 `Http` 的持久连接？
 
 ## 5.多线程
 - 1.`NSThread`相关知识？
