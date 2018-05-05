@@ -130,7 +130,7 @@
 - 20.网络请求的状态码都大致代表什么意思？(1xx,2xx,3xx,4xx,5xx)
 - 21.抓包软件 `Charles` 的原理是什么？说一下中间人攻击的过程。
 - 22.如何判断一个请求是否结束？
-- 23.`Https` 的加密过程？（SSL加密、现已到TLS）
+- 23.`Https` 的加密过程？（SSL加密、现已到TLS）- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/4.网络/23.第二十三题.md)
 - 24.解释一下 `Http` 的持久连接？
 
 ## 5.多线程
