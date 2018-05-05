@@ -115,7 +115,7 @@
 - 5.解释一下 `三次握手` 和 `四次挥手`？解释一下为什么是`三次握手` 又为什么是 `四次挥手`？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/4.网络/5.第五题.md)
 - 6.`GET` 和 `POST` 请求的区别？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/4.网络/6.第六题.md)
 - 7.`HTTP` 请求报文 和 响应报文的结构？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/4.网络/7.第七题.md)
-- 8.什么是 `Mimetype` ?
+- 8.什么是 `Mimetype` ? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/4.网络/8.第八题.md)
 - 9.数据传输的加密过程？
 - 10.说一下 `TCP/IP` 五层模型的协议?
 - 11.说一下 `OSI` 七层模型的协议?
