@@ -141,12 +141,13 @@
 - 5.说一下 `GCD` 并发队列实现机制？
 - 6.`NSLock`
 - 7.`NSContion`
-- 8.`NSContionLock`
-- 9.`NSRecursiveLock`
-- 10.`Synchronized(self) {// code}`
+- 8.条件锁 - `NSContionLock`
+- 9.递归锁 - `NSRecursiveLock`
+- 10.同步锁 - `Synchronized(self) {// code}`
 - 11.信号量 - `dispatch_semaphore`。 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/5.多线程/11.第十一题.md)
 - 12.自旋锁 - `OSSpinLock` 。 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/5.多线程/12.第十二题.md)
-- 13.`pthread_mutex`
+- 13.互斥锁 - `pthread_mutex`
+- 14.分步锁 - `NSDistributedLock`。
 - 14.如何确保线程安全？
 - 15.`NSMutableArray`、和 `NSMutableDictionary`是线程安全的吗？`NSCache`呢？
 
