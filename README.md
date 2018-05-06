@@ -129,7 +129,7 @@
 - 19.`Post`请求体有哪些格式？
 - 20.网络请求的状态码都大致代表什么意思？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/4.网络/20.第二十题.md)
 - 21.抓包软件 `Charles` 的原理是什么？说一下中间人攻击的过程。- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/4.网络/21.第二十一题.md)
-- 22.如何判断一个请求是否结束？
+- 22.如何判断一个请求是否结束？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/4.网络/22.第二十二题.md)
 - 23.`Https` 的加密过程？（SSL加密、现已到TLS）- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/4.网络/23.第二十三题.md)
 - 24.解释一下 `Http` 的持久连接？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/4.网络/24.第二十四题.md)
 
