@@ -204,7 +204,7 @@
 > 这个模块需要大量代码，我就不贴了
 
 - 1.编程中的六大设计原则？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/9.设计模式/1.第一题.md)
-- 2.代理委托模式
+- 2.如何设计一个图片缓存框架？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/9.设计模式/2.第二题.md)
 - 3.单例模式
 - 4.类工厂模式
 - 5.外观模式
@@ -216,6 +216,8 @@
 - 11.命令模式
 - 12.适配器模式
 - 13.桥接模式
+- 14.代理委托模式
+
 
 ## 10.音频处理
 
@@ -320,6 +322,7 @@
 - 23.`Obj-C` 中的反射机制了解吗？
 - 24.`atomic` 修饰的属性是绝对安全的吗？为什么？
 - 25.`id` 和 `instanceType` 有什么区别？
+
 
 
 ## 25.计算题
