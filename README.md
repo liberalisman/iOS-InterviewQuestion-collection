@@ -126,7 +126,7 @@
 - 16.`NSUrlProtocol`用过吗？用在什么地方了？
 - 17.如何在测试过程中 `MOCK` 各种网络环境？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/4.网络/17.第十七题.md)
 - 18.`DNS` 的解析过程？网络的 `DNS` 优化。 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/4.网络/18.第十八题.md)
-- 19.`Post`请求体有哪些格式？
+- 19.`Post`请求体有哪些格式？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/4.网络/19.第十九题.md)
 - 20.网络请求的状态码都大致代表什么意思？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/4.网络/20.第二十题.md)
 - 21.抓包软件 `Charles` 的原理是什么？说一下中间人攻击的过程。- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/4.网络/21.第二十一题.md)
 - 22.如何判断一个请求是否结束？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/4.网络/22.第二十二题.md)
