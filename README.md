@@ -200,6 +200,9 @@
 - 10.FoundationDB
 
 ## 9.iOS设计模式
+
+> 这个模块需要大量代码，我就不贴了
+
 - 1.编程中的六大设计原则？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/9.设计模式/1.第一题.md)
 - 2.代理委托模式
 - 3.单例模式
