@@ -205,7 +205,7 @@
 
 - 1.编程中的六大设计原则？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/9.设计模式/1.第一题.md)
 - 2.如何设计一个图片缓存框架？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/9.设计模式/2.第二题.md)
-- 3.单例模式
+- 3.如何设计一个时长统计框架？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/9.设计模式/3.第三题.md)
 - 4.类工厂模式
 - 5.外观模式
 - 6.中介者模式
@@ -217,6 +217,7 @@
 - 12.适配器模式
 - 13.桥接模式
 - 14.代理委托模式
+- 15.单例模式
 
 
 ## 10.音频处理
