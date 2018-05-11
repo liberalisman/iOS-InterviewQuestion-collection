@@ -35,7 +35,15 @@
 
 ### ②.算法
 
-算法系列决定不再自己写了，因为已经有了很好的总结。 - [链接](https://github.com/CyC2018/Interview-Notebook)
+推荐一个很好的算法总结 - [链接](https://github.com/CyC2018/Interview-Notebook)
+
+- 1.字符串反转
+- 2.链表反转
+- 3.有序数组合并
+- 4.Hash 算法
+- 5.查找两个子视图的共同父视图
+- 6.无序数组中的中位数
+- 7.两数之和为特定值
 
 ## 1.iOS 内存管理
 - 1.讲一下 `iOS` 内存管理的理解？(三种方案的结合) - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/1.内存管理/1.第一题.md)
