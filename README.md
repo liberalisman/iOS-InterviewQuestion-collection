@@ -37,7 +37,7 @@
 
 推荐一个很好的算法总结 - [链接](https://github.com/CyC2018/Interview-Notebook)
 
-- 1.字符串反转
+- 1.字符串反转 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/0.算法集合/1.第一题.md)
 - 2.链表反转
 - 3.有序数组合并
 - 4.Hash 算法
