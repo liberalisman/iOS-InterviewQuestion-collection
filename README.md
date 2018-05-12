@@ -112,7 +112,7 @@
 - 14.如何使用 `Runloop` 实现一个常驻线程？这种线程一般有什么作用？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/3.Runloop/14.第十四题.md)
 - 15.为什么 `NSTimer` 有时候不好使？（不同类型的Mode）- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/3.Runloop/15.第十五题.md)
 - 16.`PerformSelector:afterDelay:`这个方法在子线程中是否起作用？为什么？怎么解决？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/3.Runloop/16.第十六题.md)
-- 17.什么是异步绘制？
+- 17.什么是异步绘制？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/3.Runloop/17.第十七题.md)
 
 
 ## 4.网络
