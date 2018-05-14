@@ -145,12 +145,12 @@
 - 27.谈一谈网络中的 `session` 和 `cookie`? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/4.网络/27.第二十七题.md)
 
 ## 5.多线程
-- 1.`NSThread`相关知识？
-- 2.`GCD` 相关知识？(栅栏函数、Group、定时器、信号量、队列类型、任务派发方式、快速迭代、延迟处理) - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/5.多线程/2.第二题.md)
-- 3.`NSOperation` 和 `NSOperationQueue`相关知识？（最大并发数、线程依赖）
+- 1.`NSThread`相关知识？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/5.多线程/1.第一题.md)
+- 2.`GCD` 相关知识？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/5.多线程/2.第二题.md)
+- 3.`NSOperation` 和 `NSOperationQueue`相关知识？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/5.多线程/3.第三题.md)
 - 4.如何实现线性编程？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/5.多线程/4.第四题.md)
 - 5.说一下 `GCD` 并发队列实现机制？
-- 6.`NSLock`
+- 6.`NSLock` - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/5.多线程/6.第六题.md)
 - 7.`NSContion`
 - 8.条件锁 - `NSContionLock`
 - 9.递归锁 - `NSRecursiveLock`
