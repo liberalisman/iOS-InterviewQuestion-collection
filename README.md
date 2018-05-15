@@ -179,7 +179,7 @@
 - 1.说一下 `NSNotification` 的实现机制？
 - 2.说一下 `NSNotification` 的特点。
 - 3.简述 `KVO` 的实现机制。
-- 4.`KVO` 在使用过程中有哪些注意点？有没有使用过其他优秀的 `KVO` 三方替代框架？
+- 4.`KVO` 在使用过程中有哪些注意点？有没有使用过其他优秀的 `KVO` 三方替代框架？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/7.消息传递的方式/4.第四题.md)
 - 5.简述 `KVO` 的注册依赖键是什么？
 - 6.如何做到 `KVO` 手动通知？
 - 7.在什么情况下会触发 `KVO`?
