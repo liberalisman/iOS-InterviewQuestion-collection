@@ -164,6 +164,9 @@
 - 14.分步锁 - `NSDistributedLock`。- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/5.多线程/14.第十四题.md)
 - 15.如何确保线程安全？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/5.多线程/15.第十五题.md)
 - 16.`NSMutableArray`、和 `NSMutableDictionary`是线程安全的吗？`NSCache`呢？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/5.多线程/16.第十六题.md)
+- 17.多线程的 `并行` 和 `并发` 有什么区别？
+- 18.多线程有哪些优缺点？
+- 19.如何自定义 `NSOperation` ?
 
 ## 6.项目架构
 - 1.什么是 `MVC`?
@@ -335,11 +338,18 @@
 
 
 ## 25.计算题
-1.**输出如下的计算结果**
+- 1.**输出如下的计算结果**
 
 ```objc
 int a=5,b;
 b=(++a)+(++a);
+```
+
+- 2.不使用第三个变量，交换两个变量的值。
+
+```objc
+int a = 5;
+int b = 10;
 ```
 
 ## 26.开放性问题
