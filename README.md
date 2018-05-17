@@ -31,7 +31,8 @@
 - 4.树
 - 5.栈
 - 6.队列
-- 7.哈希表（有哪些功能是通过哈希表实现的）
+- 7.哈希表
+- 8.字典
 
 ### ②.算法
 
@@ -43,7 +44,8 @@
 - 4.Hash 算法
 - 5.查找两个子视图的共同父视图
 - 6.无序数组中的中位数
-- 7.两数之和为特定值
+- 7.两数之和为特定值 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/0.算法集合/7.第七题.md)
+- 8.求出数组中连续数字的和值 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/0.算法集合/8.第八题.md)
 
 ## 1.iOS 内存管理
 - 1.讲一下 `iOS` 内存管理的理解？(三种方案的结合) - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/1.内存管理/1.第一题.md)
@@ -68,6 +70,7 @@
 - 20.`@autoreleasrPool` 的释放时机？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/1.内存管理/20.第二十题.md)
 - 21.`retain`、`release` 的实现机制？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/1.内存管理/21.第二十一题.md)
 - 22.能不能简述一下 `Dealloc` 的实现机制？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/1.内存管理/22.第二十二题.md)
+- 在 `MRC` 下如何重写属性的 `Setter` 和 `Getter`?
 
 
 ## 2.Runtime
