@@ -70,7 +70,7 @@
 - 20.`@autoreleasrPool` 的释放时机？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/1.内存管理/20.第二十题.md)
 - 21.`retain`、`release` 的实现机制？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/1.内存管理/21.第二十一题.md)
 - 22.能不能简述一下 `Dealloc` 的实现机制？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/1.内存管理/22.第二十二题.md)
-- 在 `MRC` 下如何重写属性的 `Setter` 和 `Getter`?
+- 23.在 `MRC` 下如何重写属性的 `Setter` 和 `Getter`? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/1.内存管理/23.第二十三题.md)
 
 
 ## 2.Runtime
@@ -96,6 +96,7 @@
 - 20.说一下对 `runtime` 的理解。（主要讲一下消息机制，是对上述的总结）
 - 21.说一下 `Runtime` 的方法缓存？存储的形式、数据结构以及查找的过程？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/2.Runtime/21.第二十一题.md)
 - 22.是否了解 `Type Encoding`? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/2.Runtime/22.第二十二题.md)
+- 23.`Objective-C` 如何实现多重继承？
 
 
 ## 3.Runloop
@@ -164,9 +165,9 @@
 - 14.分步锁 - `NSDistributedLock`。- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/5.多线程/14.第十四题.md)
 - 15.如何确保线程安全？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/5.多线程/15.第十五题.md)
 - 16.`NSMutableArray`、和 `NSMutableDictionary`是线程安全的吗？`NSCache`呢？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/5.多线程/16.第十六题.md)
-- 17.多线程的 `并行` 和 `并发` 有什么区别？
-- 18.多线程有哪些优缺点？
-- 19.如何自定义 `NSOperation` ?
+- 17.多线程的 `并行` 和 `并发` 有什么区别？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/5.多线程/17.第十七题.md)
+- 18.多线程有哪些优缺点？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/5.多线程/18.第十八题.md)
+- 19.如何自定义 `NSOperation` ? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/5.多线程/19.第十九题.md)
 
 ## 6.项目架构
 - 1.什么是 `MVC`?
@@ -345,7 +346,7 @@ int a=5,b;
 b=(++a)+(++a);
 ```
 
-- 2.不使用第三个变量，交换两个变量的值。
+- 2.不使用第三个变量，交换两个变量的值。- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/25.计算题/2.第二题.md)
 
 ```objc
 int a = 5;
