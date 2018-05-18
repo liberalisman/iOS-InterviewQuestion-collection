@@ -161,7 +161,7 @@
 - 10.同步锁 - `Synchronized(self) {// code}`  - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/5.多线程/10.第十题.md)
 - 11.信号量 - `dispatch_semaphore`。 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/5.多线程/11.第十一题.md)
 - 12.自旋锁 - `OSSpinLock` 。 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/5.多线程/12.第十二题.md)
-- 13.互斥锁 - `pthread_mutex` - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/5.多线程/13.第十三题.md)
+- 13.多功能🔐 - `pthread_mutex` - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/5.多线程/13.第十三题.md)
 - 14.分步锁 - `NSDistributedLock`。- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/5.多线程/14.第十四题.md)
 - 15.如何确保线程安全？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/5.多线程/15.第十五题.md)
 - 16.`NSMutableArray`、和 `NSMutableDictionary`是线程安全的吗？`NSCache`呢？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/5.多线程/16.第十六题.md)
