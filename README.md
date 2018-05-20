@@ -310,10 +310,10 @@
 - 4.崩溃的处理
 
 ## 24.其他问题
-- 1.`UIView` 和 `CALayer` 是什么关系？
-- 2.`Bounds` 和 `Frame` 的区别?
-- 3.`nil`、`NIL`、`NSNULL` 有什么区别？
-- 4.如何实现一个线程安全的 `NSMutableArray`?
+- 1.`UIView` 和 `CALayer` 是什么关系？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/24.其他问题/1.第一题.md)
+- 2.`Bounds` 和 `Frame` 的区别? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/24.其他问题/2.第二题.md)
+- 3.`nil`、`NIL`、`NSNULL` 有什么区别？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/24.其他问题/3.第三题.md)
+- 4.如何实现一个线程安全的 `NSMutableArray`? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/24.其他问题/4.第四题.md)
 - 5.如何定义一台 `iOS` 设备的唯一性?
 - 6.如何高性能的画一个圆角？
 - 7.`load` 和 `Initialize` 的区别?
