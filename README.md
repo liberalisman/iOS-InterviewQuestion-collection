@@ -324,8 +324,8 @@
 - 12.`LoadView`方法了解吗？
 - 13.说一下对 `APNS` 的认识？
 - 14.实现 `isEqual` 和 `hash` 方法时要注意什么？
-- 15.`UIButton` 的父类是什么？`UILabel` 的父类又是什么？
-- 16.实现一个控件，可以浮在任意界面的上层并支持拖动？
+- 15.`UIButton` 的父类是什么？`UILabel` 的父类又是什么？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/24.其他问题/15.第十五题.md)
+- 16.实现一个控件，可以浮在任意界面的上层并支持拖动？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/24.其他问题/16.第十六题.md)
 - 17.解释一下 `copy` 关键字涉及的方方面面，说的越全越好。
 - 18.说一下控制器 `View` 的生命周期，一旦收到内存警告会如何处理？
 - 19.简述事件传递、事件响应机制。
