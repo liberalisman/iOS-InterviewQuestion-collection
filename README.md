@@ -332,9 +332,9 @@
 - 20.说一下对 `Super` 关键字的理解。
 - 21.了解 `逆变` 和 `协变` 吗？
 - 22.`@synthesize` 和 `@dynamic` 分别有什么作用？
-- 23.`Obj-C` 中的反射机制了解吗？
-- 24.`atomic` 修饰的属性是绝对安全的吗？为什么？
-- 25.`id` 和 `instanceType` 有什么区别？
+- 23.`Obj-C` 中的反射机制了解吗？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/24.其他问题/23.第二十三题.md)
+- 24.`atomic` 修饰的属性是绝对安全的吗？为什么？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/24.其他问题/24.第二十四题.md)
+- 25.`id` 和 `instanceType` 有什么区别？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/24.其他问题/25.第二十五题.md)
 
 
 
