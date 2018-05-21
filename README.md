@@ -314,15 +314,15 @@
 - 2.`Bounds` 和 `Frame` 的区别? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/24.其他问题/2.第二题.md)
 - 3.`nil`、`NIL`、`NSNULL` 有什么区别？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/24.其他问题/3.第三题.md)
 - 4.如何实现一个线程安全的 `NSMutableArray`? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/24.其他问题/4.第四题.md)
-- 5.如何定义一台 `iOS` 设备的唯一性?
-- 6.如何高性能的画一个圆角？
-- 7.`load` 和 `Initialize` 的区别?
+- 5.如何定义一台 `iOS` 设备的唯一性? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/24.其他问题/5.第五题.md)
+- 6.如何高性能的画一个圆角？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/24.其他问题/6.第六题.md)
+- 7.`load` 和 `Initialize` 的区别? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/24.其他问题/7.第七题.md)
 - 8.`Designated Initializer`的规则？
 - 9.`App` 编译过程有了解吗？
-- 10.`JS` 和 `Native` 交互。
-- 11.使用 `atomic` 一定是线程安全的吗？
-- 12.`LoadView`方法了解吗？
-- 13.说一下对 `APNS` 的认识？
+- 10.`JS` 和 `Native` 交互。- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/24.其他问题/10.第十题.md)
+- 11.`atomic` 修饰的属性是绝对安全的吗？为什么？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/24.其他问题/11.第十一题.md)
+- 12.`LoadView`方法了解吗？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/24.其他问题/12.第十二题.md)
+- 13.说一下对 `APNS` 的认识？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/24.其他问题/12.第十二题.md)
 - 14.实现 `isEqual` 和 `hash` 方法时要注意什么？
 - 15.`UIButton` 的父类是什么？`UILabel` 的父类又是什么？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/24.其他问题/15.第十五题.md)
 - 16.实现一个控件，可以浮在任意界面的上层并支持拖动？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/24.其他问题/16.第十六题.md)
@@ -333,7 +333,7 @@
 - 21.了解 `逆变` 和 `协变` 吗？
 - 22.`@synthesize` 和 `@dynamic` 分别有什么作用？
 - 23.`Obj-C` 中的反射机制了解吗？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/24.其他问题/23.第二十三题.md)
-- 24.`atomic` 修饰的属性是绝对安全的吗？为什么？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/24.其他问题/24.第二十四题.md)
+- 24.
 - 25.`id` 和 `instanceType` 有什么区别？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/24.其他问题/25.第二十五题.md)
 
 
