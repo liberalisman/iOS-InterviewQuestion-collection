@@ -330,8 +330,8 @@
 - 18.说一下控制器 `View` 的生命周期，一旦收到内存警告会如何处理？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/24.其他问题/18.第十八题.md)
 - 19.简述事件传递、事件响应机制。- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/24.其他问题/19.第十九题.md)
 - 20.说一下对 `Super` 关键字的理解。- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/24.其他问题/20.第二十题.md)
-- 21.了解 `逆变` 和 `协变` 吗？
-- 22.`@synthesize` 和 `@dynamic` 分别有什么作用？
+- 21.了解 `逆变` 和 `协变` 吗？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/24.其他问题/21.第二十一题.md)
+- 22.`@synthesize` 和 `@dynamic` 分别有什么作用？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/24.其他问题/22.第二十二题.md)
 - 23.`Obj-C` 中的反射机制了解吗？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/24.其他问题/23.第二十三题.md)
 
 
