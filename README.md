@@ -36,8 +36,42 @@
 
 ### ②.算法
 
-推荐一个很好的算法总结 - [链接](https://github.com/CyC2018/Interview-Notebook)
 
+
+###### 1.常见的摘要算法：
+- HEX编码
+- Base64
+- MD5
+- SHA1
+- SHA256
+- MAC算法
+
+###### 2.常见对称加密算法
+- AES
+- DES
+- 3DES
+- Blowfish
+
+###### 3.常见的排序算法
+- 快速排序
+- 堆排序
+- 冒泡排序
+- 选择排序
+- 希尔排序
+- 快速排序
+
+###### 4.常见的字符编码方法
+- 1.ASCII
+- 2.ISO-8859-1
+- 3.GB2312
+- 4.GBK
+- 5.UTF-8
+- 6.UTF-16 
+- 7.Unicode
+
+> 推荐一个很好的算法总结 - [链接](https://github.com/CyC2018/Interview-Notebook)
+
+###### 5.常考算法题
 - 1.字符串反转 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/0.算法集合/1.第一题.md)
 - 2.链表反转
 - 3.有序数组合并
@@ -46,6 +80,7 @@
 - 6.无序数组中的中位数
 - 7.两数之和为特定值 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/0.算法集合/7.第七题.md)
 - 8.求出数组中连续数字的和值 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/0.算法集合/8.第八题.md)
+- 9.白鼠与毒酒的算法问题 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/0.算法集合/9.第九题.md)
 
 ## 1.iOS 内存管理
 - 1.讲一下 `iOS` 内存管理的理解？(三种方案的结合) - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/1.内存管理/1.第一题.md)
@@ -338,18 +373,32 @@
 
 
 ## 25.计算题
-- 1.**输出如下的计算结果**
+- 1.**输出如下的计算结果** （14）
 
 ```objc
 int a=5,b;
 b=(++a)+(++a);
 ```
 
-- 2.不使用第三个变量，交换两个变量的值。- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/25.计算题/2.第二题.md)
+- 2.**不使用第三个变量，交换两个变量的值。**- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/25.计算题/2.第二题.md)
 
 ```objc
 int a = 5;
 int b = 10;
+```
+- 3.**给出 `i`值得取值范围？** （大于或等于10000）
+
+```objc
+    __block int i = 0;
+
+    while (i<10000) {
+
+    dispatch_async(dispatch_get_global_queue(0, 0), ^{
+        i++;
+    });
+}
+    NSLog(@"i=%d",i);
+}
 ```
 
 ## 26.开放性问题
