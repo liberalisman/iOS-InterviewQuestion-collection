@@ -55,7 +55,7 @@
 ###### 3.常见的排序算法
 - 快速排序
 - 堆排序
-- 冒泡排序
+- 冒泡排序 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/0.算法集合/冒泡排序.md)
 - 选择排序
 - 希尔排序
 - 快速排序
