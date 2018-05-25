@@ -205,6 +205,7 @@
 - 17.多线程的 `并行` 和 `并发` 有什么区别？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/5.多线程/17.第十七题.md)
 - 18.多线程有哪些优缺点？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/5.多线程/18.第十八题.md)
 - 19.如何自定义 `NSOperation` ? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/5.多线程/19.第十九题.md)
+- 20.`GCD` 与 `NSOperationQueue` 有哪些异同？
 
 ## 6.项目架构
 - 1.什么是 `MVC`?
@@ -237,16 +238,17 @@
 - 15.`Block` 有几种类型？分别是什么？
 
 ## 8.数据存储
-- 1.Sqlite3 （不同版本的APP，数据库结构变化了，如何处理? ）
-- 2.FMDB (`Sqlite3` 的封装)
-- 3.Realm
-- 4.NSKeyArchieve
-- 5.Preperfence
-- 6.Plist
-- 7.CoreDate
-- 8.Keychain
-- 9.UIPasteBoard(感谢 lilingyu0620 同学提醒)
-- 10.FoundationDB
+- Sqlite3 常用的语句
+- Sqlite3 在不同版本的APP，数据库结构变化了，如何处理? 
+- FMDB (`Sqlite3` 的封装)
+- Realm
+- NSKeyArchieve
+- Preperfence
+- Plist
+- CoreDate
+- Keychain
+- UIPasteBoard(感谢 lilingyu0620 同学提醒)
+- FoundationDB
 
 ## 9.iOS设计模式
 
@@ -370,11 +372,12 @@
 - 21.了解 `逆变` 和 `协变` 吗？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/24.其他问题/21.第二十一题.md)
 - 22.`@synthesize` 和 `@dynamic` 分别有什么作用？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/24.其他问题/22.第二十二题.md)
 - 23.`Obj-C` 中的反射机制了解吗？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/24.其他问题/23.第二十三题.md)
+- 24.如何暂停一个 `UIView` 中正在播放的动画？暂停后如何恢复？
 
 
 
 
-## 25.计算题
+## 25.逻辑计算题
 - 1.**输出如下的计算结果** （14）
 
 ```objc
@@ -402,6 +405,8 @@ int b = 10;
     NSLog(@"i=%d",i);
 }
 ```
+
+- 4.**编码求，给定一个整数，按照十进制的编码计算包含多少个 `0`?**  - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/25.计算题/4.第四题.md)
 
 ## 26.开放性问题
 
