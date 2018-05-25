@@ -372,7 +372,7 @@
 - 21.了解 `逆变` 和 `协变` 吗？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/24.其他问题/21.第二十一题.md)
 - 22.`@synthesize` 和 `@dynamic` 分别有什么作用？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/24.其他问题/22.第二十二题.md)
 - 23.`Obj-C` 中的反射机制了解吗？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/24.其他问题/23.第二十三题.md)
-- 24.如何暂停一个 `UIView` 中正在播放的动画？暂停后如何恢复？
+- 24.如何暂停一个 `UIView` 中正在播放的动画？暂停后如何恢复？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/24.其他问题/24.第二十四题.md)
 
 
 
