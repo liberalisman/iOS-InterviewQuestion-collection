@@ -228,10 +228,10 @@
 - 5.简述 `KVO` 的注册依赖键是什么？
 - 6.如何做到 `KVO` 手动通知？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/7.消息传递的方式/6.第六题.md)
 - 7.在什么情况下会触发 `KVO`?  - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/7.消息传递的方式/7.第七题.md)
-- 8.给实例变量赋值时，是否会触发 `KVO`? 
-- 9.`Delegate`通常用什么关键字修饰？为什么？
-- 10`通知` 和 `代理` 有什么区别？各自适应的场景？
-- 11.`__block` 的解释以及在 `ARC` 和 `MRC` 下有什么不同？
+- 8.给实例变量赋值时，是否会触发 `KVO`?  - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/7.消息传递的方式/8.第八题.md)
+- 9.`Delegate`通常用什么关键字修饰？为什么？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/7.消息传递的方式/9.第九题.md)
+- 10.`通知` 和 `代理` 有什么区别？各自适应的场景？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/7.消息传递的方式/10.第十题.md)
+- 11.`__block` 的解释以及在 `ARC` 和 `MRC` 下有什么不同？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/7.消息传递的方式/11.第十一题.md)
 - 12.`Block` 的内存管理。
 - 13.`Block` 自动截取变量。
 - 14.`Block` 处理循环引用。
