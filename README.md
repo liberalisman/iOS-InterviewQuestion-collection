@@ -1,10 +1,28 @@
-# iOS-InterviewQuestion-collection（未完待续。。。。）
+![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1526457040696&di=0c64726aa0fbf502bbb2af5142b8a1c2&imgtype=0&src=http%3A%2F%2Fimg2.jiemian.com%2F101%2Foriginal%2F20170408%2F149163479116565200.jpg)
 
-> 最近正在准备面试，所以自己边复习边整理，列出了一些自己复习的知识点.
+<p align='center'>
+<img src="https://img.shields.io/badge/platform-iOS-ff69b4.svg">
+<img src="https://img.shields.io/badge/language-Objective--C-orange.svg">
+<img src="https://img.shields.io/badge/language-Swift-abcdef.svg">
+<img src="https://img.shields.io/badge/language-JavaScript-yellow.svg">
+
+
+<img src="https://img.shields.io/badge/made%20with-=1-blue.svg">
+
+
+<a href="https://weibo.com/1743643682/profile?topnav=1&wvr=6&is_all=1"><img src="https://img.shields.io/badge/weibo-@Liberalism-f974ce.svg?style=flat&colorA=f4292e"></a>
+
+<img src="https://img.shields.io/badge/PR-welcome%20!-brightgreen.svg?colorA=a0cd34">
+</p>
+
+
+## iOS-InterviewQuestion-collection（未完待续...）
+
+> 最近在准备面试，所以自己边复习边整理，列出了一些自己复习的知识点。
 > 
-> 后面的一些知识模块还没有延展开，因为有的地方自己理解的还不到位，我还需要时间仔细整理。
+> 后面的一些知识模块之所以没有延展开，是因为有的地方自己理解的还不到位，我还需要时间仔细整理。
 > 
-> 这个仓库根据我的设想，我认为还远远没有完成，后续会不断更新，起初并不想写答案，但一是有的人需要，二是，我自己写一个很简单的思路，起一个提示的作用，如果有想错的地方，也欢迎大家指正。
+> 这个仓库根据我的设想，我认为还远远没有完成，后续会不断更新，起初并不想写答案，但考虑到有的人需要，其次我自己写一个很简单的思路，起一个提示的作用，如果有想错的地方，也欢迎大家指正。
 > 
 > 再次说明：所有的答案只写思路，不会长篇大论的验证，只起到提示作用。
 > 
