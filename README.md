@@ -294,6 +294,7 @@
 - 1.图像的压缩、解压。
 
 ## 13.iOS 动画
+- 1.简要说一下常用的动画库。
 
 ## 14.蓝牙
 
@@ -305,6 +306,8 @@
 - 1.Git
     - 1.`git pull` 和 `git fetch` 的区别？
     - 2.`git merge` 和 `git rebase` 的区别？ 
+    - 3.如何在本地新建一个分支，并 `push` 到远程服务器上？
+    - 4.如果 `fork` 了一个别人的仓库，怎样与源仓库保持同步？
 - 2.Svn
 - 3.CocoaPods
     - 1.说一下 `CocoaPods` 的原理？
@@ -388,6 +391,7 @@
 - 22.`@synthesize` 和 `@dynamic` 分别有什么作用？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/24.其他问题/22.第二十二题.md)
 - 23.`Obj-C` 中的反射机制了解吗？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/24.其他问题/23.第二十三题.md)
 - 24.如何暂停一个 `UIView` 中正在播放的动画？暂停后如何恢复？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/24.其他问题/24.第二十四题.md)
+- 25.`App` 上有一数据列表，客户端和服务端均没有任何缓存，当服务端有数据更新时，该列表在 `wifi` 下能获取到数据，在 4G 下刷新不到，但是在 4g 环境下其他 `App` 都可以正常打开，分析其产生的原因？
 
 
 
