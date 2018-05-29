@@ -1,4 +1,7 @@
-![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1526457040696&di=0c64726aa0fbf502bbb2af5142b8a1c2&imgtype=0&src=http%3A%2F%2Fimg2.jiemian.com%2F101%2Foriginal%2F20170408%2F149163479116565200.jpg)
+
+<p align='center'>
+<img src='https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1526457040696&di=0c64726aa0fbf502bbb2af5142b8a1c2&imgtype=0&src=http%3A%2F%2Fimg2.jiemian.com%2F101%2Foriginal%2F20170408%2F149163479116565200.jpg'>
+</p>
 
 <p align='center'>
 <img src="https://img.shields.io/badge/platform-iOS-ff69b4.svg">
