@@ -272,7 +272,7 @@
 - 1.编程中的六大设计原则？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/9.设计模式/1.第一题.md)
 - 2.如何设计一个图片缓存框架？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/9.设计模式/2.第二题.md)
 - 3.如何设计一个时长统计框架？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/9.设计模式/3.第三题.md)
-- 4.类工厂模式
+- 4.如何实现 `App` 换肤（夜间模式）？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/9.设计模式/4.第四题.md)
 - 5.外观模式
 - 6.中介者模式
 - 7.访问者模式
@@ -284,6 +284,7 @@
 - 13.桥接模式
 - 14.代理委托模式
 - 15.单例模式
+- 16.类工厂模式
 
 
 ## 10.音频处理
@@ -292,6 +293,7 @@
 
 ## 12.图像处理
 - 1.图像的压缩、解压。
+
 
 ## 13.iOS 动画
 - 1.简要说一下常用的动画库。
@@ -359,6 +361,7 @@
 - 3.`NSAssert` 的使用。
 - 4.`Charles` 的使用。
 - 5.`Reveal` 的使用。
+- 6.`iOS` 常见的崩溃类型有哪些？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/22.调试技巧/6.第六题.md)
 
 ## 23.扩展问题
 - 1.无痕埋点
