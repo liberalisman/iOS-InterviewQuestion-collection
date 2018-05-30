@@ -329,7 +329,7 @@
 - 3.DES加密
 - 4.Base64加密
 - 5.MD5加密
-- 6.简述 `SSL` 加密的过程用了哪些加密方法，为何这么作？
+- 6.简述 `SSL` 加密的过程用了哪些加密方法，为何这么做？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/18.数据安全及加密/6.第六题.md)
 - 7.是否了解 `iOS` 的签名机制？
 - 8.如何对 `APP` 进行重签名？
 
