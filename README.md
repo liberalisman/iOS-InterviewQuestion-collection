@@ -100,6 +100,7 @@
 - 11.假如有 10亿 条数据，每条数据的大小在 10k-100k 之间，我们有一台内存为 4G 的电脑，如何算出播放次数最多的一条微博？
 - 12.如何打印一个矩阵？
 - 13.如何验证一个 `IP` 地址的有效性？
+- 栈中储存着一组无序的数字，不用便利的方式，如何找出最小值？
 
 ## 1.iOS 内存管理
 - 1.讲一下 `iOS` 内存管理的理解？(三种方案的结合) - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/1.内存管理/1.第一题.md)
@@ -238,7 +239,7 @@
 
 ## 7.消息传递的方式
 
-- 1.说一下 `NSNotification` 的实现机制？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/7.消息传递的方式/1.第一题.md)
+- 1.说一下 `NSNotification` 的实现机制？发消息是同步还是异步？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/7.消息传递的方式/1.第一题.md)
 - 2.说一下 `NSNotification` 的特点。 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/7.消息传递的方式/2.第二题.md)
 - 3.简述 `KVO` 的实现机制。 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/7.消息传递的方式/3.第三题.md)
 - 4.`KVO` 在使用过程中有哪些注意点？有没有使用过其他优秀的 `KVO` 三方替代框架？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/7.消息传递的方式/4.第四题.md)
@@ -266,6 +267,7 @@
 - Keychain
 - UIPasteBoard(感谢 lilingyu0620 同学提醒)
 - FoundationDB
+- LRU(最少最近使用)缓存
 
 ## 9.iOS设计模式
 
@@ -340,6 +342,8 @@
 ## 19.源代码阅读
 - 1.YYKit
 - 2.SDWebImage
+    - 缓存机制
+    - 移除策略 
 - 3.AFNetworking
 - 4.SVProgressHub 
 - 5.Texture（ASDK）
@@ -397,7 +401,7 @@
 - 23.`Obj-C` 中的反射机制了解吗？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/24.其他问题/23.第二十三题.md)
 - 24.如何暂停一个 `UIView` 中正在播放的动画？暂停后如何恢复？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/24.其他问题/24.第二十四题.md)
 - 25.`App` 上有一数据列表，客户端和服务端均没有任何缓存，当服务端有数据更新时，该列表在 `wifi` 下能获取到数据，在 4G 下刷新不到，但是在 4g 环境下其他 `App` 都可以正常打开，分析其产生的原因？
-
+-26.能不能详细的讲一下 `CALayer`?
 
 
 
