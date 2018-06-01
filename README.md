@@ -209,7 +209,7 @@
 - 3.`NSOperation` 和 `NSOperationQueue`相关知识？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/5.多线程/3.第三题.md)
 - 4.如何实现线性编程？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/5.多线程/4.第四题.md)
 - 5.说一下 `GCD` 并发队列实现机制？
-- 6.`NSLock` - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/5.多线程/6.第六题.md)
+- 6.`NSLock`？是否会出现死锁？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/5.多线程/6.第六题.md)
 - 7.`NSContion` - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/5.多线程/7.第七题.md)
 - 8.条件锁 - `NSContionLock`  - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/5.多线程/8.第八题.md)
 - 9.递归锁 - `NSRecursiveLock` - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/5.多线程/9.第九题.md)
