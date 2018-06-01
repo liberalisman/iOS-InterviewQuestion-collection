@@ -96,7 +96,7 @@
 - 7.两数之和为特定值 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/0.算法集合/7.第七题.md)
 - 8.求出数组中连续数字的和值 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/0.算法集合/8.第八题.md)
 - 9.白鼠与毒酒的算法问题 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/0.算法集合/9.第九题.md)
-- 10.在一个数组中找出前四个最大的数字。
+- 10.在一个数组中找出前四个最大的数字。- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/0.算法集合/10.第十题.md)
 - 11.假如有 10亿 条数据，每条数据的大小在 10k-100k 之间，我们有一台内存为 4G 的电脑，如何算出播放次数最多的一条微博？
 - 12.如何打印一个矩阵？
 - 13.如何验证一个 `IP` 地址的有效性？
