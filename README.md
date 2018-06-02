@@ -251,9 +251,9 @@
 - 10.`通知` 和 `代理` 有什么区别？各自适应的场景？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/7.消息传递的方式/10.第十题.md)
 - 11.`__block` 的解释以及在 `ARC` 和 `MRC` 下有什么不同？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/7.消息传递的方式/11.第十一题.md)
 - 12.`Block` 的内存管理。
-- 13.`Block` 自动截取变量。
-- 14.`Block` 处理循环引用。
-- 15.`Block` 有几种类型？分别是什么？
+- 13.`Block` 自动截取变量。- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/7.消息传递的方式/13.第十三题.md)
+- 14.`Block` 处理循环引用。- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/7.消息传递的方式/14.第十四题.md)
+- 15.`Block` 有几种类型？分别是什么？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/7.消息传递的方式/15.第十五题.md)
 
 ## 8.数据存储
 - Sqlite3 常用的语句
