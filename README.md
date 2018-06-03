@@ -341,9 +341,7 @@
 
 ## 19.源代码阅读
 - 1.YYKit
-- 2.SDWebImage
-    - 缓存机制
-    - 移除策略 
+- 2.SDWebImage  - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/19.源代码阅读/2.第二题.md)
 - 3.AFNetworking
 - 4.SVProgressHub 
 - 5.Texture（ASDK）
