@@ -310,8 +310,8 @@
 
 ## 17.代码管理、持续集成、项目托管
 - 1.Git
-    - 1.`git pull` 和 `git fetch` 的区别？
-    - 2.`git merge` 和 `git rebase` 的区别？ 
+    - 1.`git pull` 和 `git fetch` 的区别？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/17.代码管理/1.1-1.md)
+    - 2.`git merge` 和 `git rebase` 的区别？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/17.代码管理/1.1-2.md)
     - 3.如何在本地新建一个分支，并 `push` 到远程服务器上？
     - 4.如果 `fork` 了一个别人的仓库，怎样与源仓库保持同步？
 - 2.Svn
