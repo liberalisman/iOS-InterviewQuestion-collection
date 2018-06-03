@@ -88,8 +88,8 @@
 
 ###### 5.常考算法题
 - 1.字符串反转 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/0.算法集合/1.第一题.md)
-- 2.链表反转
-- 3.有序数组合并
+- 2.链表反转 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/0.算法集合/2.第二题.md)
+- 3.有序数组合并 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/0.算法集合/3.第三题.md)
 - 4.Hash 算法
 - 5.查找两个子视图的共同父视图
 - 6.无序数组中的中位数
