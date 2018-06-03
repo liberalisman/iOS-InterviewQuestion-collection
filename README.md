@@ -91,8 +91,8 @@
 - 2.链表反转 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/0.算法集合/2.第二题.md)
 - 3.有序数组合并 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/0.算法集合/3.第三题.md)
 - 4.查找第一个只出现一次的字符 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/0.算法集合/4.第四题.md)
-- 5.查找两个子视图的共同父视图
-- 6.无序数组中的中位数
+- 5.查找两个子视图的共同父视图 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/0.算法集合/5.第五题.md)
+- 6.无序数组中的中位数 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/0.算法集合/6.第六题.md)
 - 7.两数之和为特定值 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/0.算法集合/7.第七题.md)
 - 8.求出数组中连续数字的和值 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/0.算法集合/8.第八题.md)
 - 9.白鼠与毒酒的算法问题 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/0.算法集合/9.第九题.md)
