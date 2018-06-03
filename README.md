@@ -243,14 +243,14 @@
 - 2.说一下 `NSNotification` 的特点。 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/7.消息传递的方式/2.第二题.md)
 - 3.简述 `KVO` 的实现机制。 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/7.消息传递的方式/3.第三题.md)
 - 4.`KVO` 在使用过程中有哪些注意点？有没有使用过其他优秀的 `KVO` 三方替代框架？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/7.消息传递的方式/4.第四题.md)
-- 5.简述 `KVO` 的注册依赖键是什么？
+- 5.简述 `KVO` 的注册依赖键是什么？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/7.消息传递的方式/5.第五题.md)
 - 6.如何做到 `KVO` 手动通知？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/7.消息传递的方式/6.第六题.md)
 - 7.在什么情况下会触发 `KVO`?  - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/7.消息传递的方式/7.第七题.md)
 - 8.给实例变量赋值时，是否会触发 `KVO`?  - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/7.消息传递的方式/8.第八题.md)
 - 9.`Delegate`通常用什么关键字修饰？为什么？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/7.消息传递的方式/9.第九题.md)
 - 10.`通知` 和 `代理` 有什么区别？各自适应的场景？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/7.消息传递的方式/10.第十题.md)
 - 11.`__block` 的解释以及在 `ARC` 和 `MRC` 下有什么不同？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/7.消息传递的方式/11.第十一题.md)
-- 12.`Block` 的内存管理。
+- 12.`Block` 的内存管理。- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/7.消息传递的方式/12.第十二题.md)
 - 13.`Block` 自动截取变量。- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/7.消息传递的方式/13.第十三题.md)
 - 14.`Block` 处理循环引用。- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/7.消息传递的方式/14.第十四题.md)
 - 15.`Block` 有几种类型？分别是什么？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/7.消息传递的方式/15.第十五题.md)
