@@ -256,12 +256,14 @@
 - 15.`Block` 有几种类型？分别是什么？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/7.消息传递的方式/15.第十五题.md)
 
 ## 8.数据存储
-- Sqlite3 常用的语句
-- Sqlite3 在不同版本的APP，数据库结构变化了，如何处理? 
+- Sqlite3 
+    - 简单说一下 `Sqlite3` - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/8.数据存储/1.1-1.md)
+    - `Sqlite3` 常用的执行语句
+    - `Sqlite3` 在不同版本的APP，数据库结构变化了，如何处理?
 - FMDB (`Sqlite3` 的封装)
 - Realm
-- NSKeyArchieve
-- Preperfence
+- NSKeyArchieve - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/8.数据存储/4.4-1.md)
+- Preperfence - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/8.数据存储/5.5-1.md)
 - Plist
 - CoreDate
 - Keychain
