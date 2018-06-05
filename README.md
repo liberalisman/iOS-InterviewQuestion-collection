@@ -126,6 +126,7 @@
 - 21.`retain`、`release` 的实现机制？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/1.内存管理/21.第二十一题.md)
 - 22.能不能简述一下 `Dealloc` 的实现机制？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/1.内存管理/22.第二十二题.md)
 - 23.在 `MRC` 下如何重写属性的 `Setter` 和 `Getter`? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/1.内存管理/23.第二十三题.md)
+- 24.在 `Obj-C` 中，如何检测内存泄漏？你知道哪些方式？
 
 
 ## 2.Runtime
@@ -172,6 +173,7 @@
 - 15.为什么 `NSTimer` 有时候不好使？（不同类型的Mode）- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/3.Runloop/15.第十五题.md)
 - 16.`PerformSelector:afterDelay:`这个方法在子线程中是否起作用？为什么？怎么解决？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/3.Runloop/16.第十六题.md)
 - 17.什么是异步绘制？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/3.Runloop/17.第十七题.md)
+- 18.如何检测 `App` 运行过程中是否卡顿？
 
 
 ## 4.网络
@@ -202,6 +204,7 @@
 - 25.说一下传输控制协议 - `TCP` ?- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/4.网络/25.第二十五题.md)
 - 26.说一下用户数据报协议 - `UDP` ? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/4.网络/26.第二十六题.md)
 - 27.谈一谈网络中的 `session` 和 `cookie`? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/4.网络/27.第二十七题.md)
+- 28.发球网络请求的时候，如果带宽 `1M`,如何针对某些请求，限制其流量?
 
 ## 5.多线程
 - 1.`NSThread`相关知识？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/5.多线程/1.第一题.md)
@@ -224,6 +227,7 @@
 - 18.多线程有哪些优缺点？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/5.多线程/18.第十八题.md)
 - 19.如何自定义 `NSOperation` ? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/5.多线程/19.第十九题.md)
 - 20.`GCD` 与 `NSOperationQueue` 有哪些异同？
+- 21.解释一下多线程中的死锁？
 
 ## 6.项目架构
 - 1.什么是 `MVC`?
