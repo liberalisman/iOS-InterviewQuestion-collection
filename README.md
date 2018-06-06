@@ -204,7 +204,7 @@
 - 25.说一下传输控制协议 - `TCP` ?- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/网络/25.第二十五题.md)
 - 26.说一下用户数据报协议 - `UDP` ? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/网络/26.第二十六题.md)
 - 27.谈一谈网络中的 `session` 和 `cookie`? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/网络/27.第二十七题.md)
-- 28.发球网络请求的时候，如果带宽 `1M`,如何针对某些请求，限制其流量?
+- 28.发送网络请求的时候，如果带宽 `1M`，如何针对某些请求，限制其流量?
 
 ## 多线程
 - 1.`NSThread`相关知识？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/多线程/1.第一题.md)
