@@ -36,10 +36,10 @@
 * 6.《算法图解》
 * 7.《剑指Offer》
 
-## 0.数据结构及算法
+## 数据结构及算法
 
 
-### ①.数据结构
+#### 数据结构
 - 1.数组
 - 2.字符串
 - 3.链表
@@ -49,11 +49,11 @@
 - 7.哈希表
 - 8.字典
 
-### ②.算法
+#### 算法
 
 
 
-###### 1.常见的摘要算法：
+###### 常见的摘要算法：
 - HEX编码
 - Base64
 - MD5
@@ -61,13 +61,13 @@
 - SHA256
 - MAC算法
 
-###### 2.常见对称加密算法
+###### 常见对称加密算法
 - AES
 - DES
 - 3DES
 - Blowfish
 
-###### 3.常见的排序算法
+###### 常见的排序算法
 - 快速排序
 - 堆排序
 - 冒泡排序 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/算法集合/冒泡排序.md)
@@ -75,7 +75,7 @@
 - 希尔排序
 - 快速排序
 
-###### 4.常见的字符编码方法
+###### 常见的字符编码方法
 - 1.ASCII
 - 2.ISO-8859-1
 - 3.GB2312
@@ -86,7 +86,7 @@
 
 > 推荐一个很好的算法总结 - [链接](https://github.com/CyC2018/Interview-Notebook)
 
-###### 5.常考算法题
+###### 常考算法题
 - 1.字符串反转 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/算法集合/1.第一题.md)
 - 2.链表反转 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/算法集合/2.第二题.md)
 - 3.有序数组合并 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/算法集合/3.第三题.md)
@@ -102,7 +102,7 @@
 - 13.如何验证一个 `IP` 地址的有效性？
 - 14.栈中储存着一组无序的数字，不用遍历的方式，如何找出最小值？
 
-## 1.iOS 内存管理
+## iOS 内存管理
 - 1.讲一下 `iOS` 内存管理的理解？(三种方案的结合) - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/内存管理/1.第一题.md)
 - 2.使用自动引用计（`ARC`）数应该遵循的原则? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/内存管理/2.第二题.md)
 - 3.`ARC` 自动内存管理的原则？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/内存管理/3.第三题.md)
@@ -129,7 +129,7 @@
 - 24.在 `Obj-C` 中，如何检测内存泄漏？你知道哪些方式？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/内存管理/24.第二十四题.md)
 
 
-## 2.Runtime
+## Runtime
 - 1.实例对象的数据结构？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Runtime/1.第一题.md)
 - 2.类对象的数据结构？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Runtime/2.第二题.md)
 - 3.元类对象的数据结构? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Runtime/3.第三题.md)
@@ -155,7 +155,7 @@
 - 23.`Objective-C` 如何实现多重继承？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Runtime/23.第二十三题.md)
 
 
-## 3.Runloop
+## Runloop
 - 1.`Runloop` 和线程的关系？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Runloop/1.第一题.md)
 - 2.讲一下 `Runloop` 的 `Mode`?(越详细越好)  - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Runloop/2.第二题.md)
 - 3.讲一下 `Observer` ？（Mode中的重点） - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Runloop/3.第三题.md)
@@ -176,7 +176,7 @@
 - 18.如何检测 `App` 运行过程中是否卡顿？
 
 
-## 4.网络
+## 网络
 - 1.`NSUrlConnect`相关知识。
 - 2.`NSUrlSession`相关知识。
 - 3.`Http` 和 `Https` 的区别？为什么更加安全？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/网络/3.第三题.md)
@@ -206,7 +206,7 @@
 - 27.谈一谈网络中的 `session` 和 `cookie`? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/网络/27.第二十七题.md)
 - 28.发球网络请求的时候，如果带宽 `1M`,如何针对某些请求，限制其流量?
 
-## 5.多线程
+## 多线程
 - 1.`NSThread`相关知识？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/多线程/1.第一题.md)
 - 2.`GCD` 相关知识？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/多线程/2.第二题.md)
 - 3.`NSOperation` 和 `NSOperationQueue`相关知识？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/5.多线程/3.第三题.md)
@@ -229,7 +229,7 @@
 - 20.`GCD` 与 `NSOperationQueue` 有哪些异同？
 - 21.解释一下多线程中的死锁？
 
-## 6.项目架构
+## 项目架构
 - 1.什么是 `MVC`?
 - 2.什么是 `MVVM`?
 - 3.什么是 `MVP`?
@@ -241,7 +241,7 @@
     - 4.各组件之间的解耦。
 - 6.还了解哪些项目架构？你之前所在公司的架构是什么样的，简单说一下？
 
-## 7.消息传递的方式
+## 消息传递的方式
 
 - 1.说一下 `NSNotification` 的实现机制？发消息是同步还是异步？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/消息传递的方式/1.第一题.md)
 - 2.说一下 `NSNotification` 的特点。 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/消息传递的方式/2.第二题.md)
@@ -260,7 +260,7 @@
 - 15.`Block` 有几种类型？分别是什么？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/消息传递的方式/15.第十五题.md)
 - 16.`Block` 和 `函数指针` 的区别? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/消息传递的方式/16.第十六题.md)
 
-## 8.数据存储
+## 数据存储
 - 1.Sqlite3 
     - 1.简单说一下 `Sqlite3` - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/数据存储/1.1-1.md)
     - 2.`Sqlite3` 常用的执行语句
@@ -276,7 +276,7 @@
 - FoundationDB
 - LRU(最少最近使用)缓存
 
-## 9.iOS设计模式
+## iOS设计模式
 
 > 这个模块需要大量代码，我就不贴了
 
@@ -298,24 +298,24 @@
 - 16.类工厂模式
 
 
-## 10.音频处理
+## 音频处理
 
-## 11.视频处理
+## 视频处理
 
-## 12.图像处理
+## 图像处理
 - 1.图像的压缩、解压。
 
 
-## 13.iOS 动画
+## iOS 动画
 - 1.简要说一下常用的动画库。
 
-## 14.蓝牙
+## 蓝牙
 
-## 15.ARKit
+## ARKit
 
-## 16.Core ML
+## Core ML
 
-## 17.代码管理、持续集成、项目托管
+## 代码管理、持续集成、项目托管
 - 1.Git
     - 1.`git pull` 和 `git fetch` 的区别？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/代码管理/1.1-1.md)
     - 2.`git merge` 和 `git rebase` 的区别？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/代码管理/1.1-2.md)
@@ -336,7 +336,7 @@
 - 8.蒲公英
 - 9.TestFlight
 
-## 18.数据安全及加密
+## 数据安全及加密
 - 1.RSA非对称加密 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/数据安全及加密/1.第一题.md)
 - 2.AES对称加密
 - 3.DES加密
@@ -346,16 +346,16 @@
 - 7.是否了解 `iOS` 的签名机制？
 - 8.如何对 `APP` 进行重签名？
 
-## 19.源代码阅读
+## 源代码阅读
 - 1.YYKit
 - 2.SDWebImage  - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/源代码阅读/2.第二题.md)
 - 3.AFNetworking
 - 4.SVProgressHub 
 - 5.Texture（ASDK）
 
-## 20.iOS逆向及安全
+## iOS逆向及安全
 
-## 21.性能优化
+## 性能优化
 - 1.如何提升 `tableview` 的流畅度？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/性能优化/1.第一题.md)
 - 2.如何使用 `Instruments` 进行性能调优？(Time Profiler、Zombies、Allocations、Leaks)
 - 3.如何优化 `APP` 的启动时间？（感谢 @静待海棠花开 的提醒）
@@ -366,7 +366,7 @@
 - 8.解释一下什么是屏幕卡顿、掉帧？该如何避免？
 - 9.什么是 `离屏渲染`？什么情况下会触发？该如何应对？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/性能优化/9.第九题.md)
 
-## 22.调试技巧 & 软件使用
+## 调试技巧 & 软件使用
 - 1.`LLDB` 调试。
 - 2.断点调试。
 - 3.`NSAssert` 的使用。
@@ -374,13 +374,13 @@
 - 5.`Reveal` 的使用。
 - 6.`iOS` 常见的崩溃类型有哪些？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/调试技巧/6.第六题.md)
 
-## 23.扩展问题
+## 扩展问题
 - 1.无痕埋点
 - 2.APM（应用程序性能监测）
 - 3.Hot Patch（热修补）
 - 4.崩溃的处理
 
-## 24.其他问题
+## 其他问题
 - 1.`UIView` 和 `CALayer` 是什么关系？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/其他问题/1.第一题.md)
 - 2.`Bounds` 和 `Frame` 的区别? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/其他问题/2.第二题.md)
 - 3.`nil`、`NIL`、`NSNULL` 有什么区别？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/其他问题/3.第三题.md)
@@ -410,7 +410,7 @@
 
 
 
-## 25.逻辑计算题
+## 逻辑计算题
 - 1.**输出如下的计算结果** （14）
 
 ```objc
@@ -441,7 +441,7 @@ int b = 10;
 
 - 4.**编码求，给定一个整数，按照十进制的编码计算包含多少个 `0`?**  - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/计算题/4.第四题.md)
 
-## 26.开放性问题
+## 开放性问题
 
 - 1.你最近在业余时间研究那些技术点？可不可以分享一下你的心得？
 - 2.你对自己未来的职业发展有什么想法？有没有对自己做过职业规划？
