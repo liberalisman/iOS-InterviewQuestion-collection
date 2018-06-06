@@ -40,14 +40,13 @@
 
 
 #### 数据结构
-- 1.数组
-- 2.字符串
-- 3.链表
+- 1.数组 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/数据结构/数组.md)
+- 2.字典 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/数据结构/字典.md)
+- 3.链表 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/数据结构/链表.md)
 - 4.树
 - 5.栈
 - 6.队列
 - 7.哈希表
-- 8.字典
 
 #### 算法
 
@@ -101,6 +100,7 @@
 - 12.如何打印一个矩阵？
 - 13.如何验证一个 `IP` 地址的有效性？
 - 14.栈中储存着一组无序的数字，不用遍历的方式，如何找出最小值？
+- 15.二维数组查找一个值。
 
 ## iOS 内存管理
 - 1.讲一下 `iOS` 内存管理的理解？(三种方案的结合) - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/内存管理/1.第一题.md)
