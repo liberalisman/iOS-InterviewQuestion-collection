@@ -70,7 +70,7 @@
 ###### 3.常见的排序算法
 - 快速排序
 - 堆排序
-- 冒泡排序 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/0.算法集合/冒泡排序.md)
+- 冒泡排序 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/算法集合/冒泡排序.md)
 - 选择排序
 - 希尔排序
 - 快速排序
@@ -87,15 +87,15 @@
 > 推荐一个很好的算法总结 - [链接](https://github.com/CyC2018/Interview-Notebook)
 
 ###### 5.常考算法题
-- 1.字符串反转 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/0.算法集合/1.第一题.md)
-- 2.链表反转 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/0.算法集合/2.第二题.md)
-- 3.有序数组合并 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/0.算法集合/3.第三题.md)
-- 4.查找第一个只出现一次的字符 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/0.算法集合/4.第四题.md)
-- 5.查找两个子视图的共同父视图 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/0.算法集合/5.第五题.md)
-- 6.无序数组中的中位数 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/0.算法集合/6.第六题.md)
-- 7.两数之和为特定值 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/0.算法集合/7.第七题.md)
-- 8.求出数组中连续数字的和值 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/0.算法集合/8.第八题.md)
-- 9.白鼠与毒酒的算法问题 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/0.算法集合/9.第九题.md)
+- 1.字符串反转 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/算法集合/1.第一题.md)
+- 2.链表反转 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/算法集合/2.第二题.md)
+- 3.有序数组合并 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/算法集合/3.第三题.md)
+- 4.查找第一个只出现一次的字符 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/算法集合/4.第四题.md)
+- 5.查找两个子视图的共同父视图 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/算法集合/5.第五题.md)
+- 6.无序数组中的中位数 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/算法集合/6.第六题.md)
+- 7.两数之和为特定值 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/算法集合/7.第七题.md)
+- 8.求出数组中连续数字的和值 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/算法集合/8.第八题.md)
+- 9.白鼠与毒酒的算法问题 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/算法集合/9.第九题.md)
 - 10.在一个数组中找出前四个最大的数字。- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/0.算法集合/10.第十题.md)
 - 11.假如有 10亿 条数据，每条数据的大小在 10k-100k 之间，我们有一台内存为 4G 的电脑，如何算出播放次数最多的一条微博？
 - 12.如何打印一个矩阵？
@@ -103,129 +103,129 @@
 - 14.栈中储存着一组无序的数字，不用遍历的方式，如何找出最小值？
 
 ## 1.iOS 内存管理
-- 1.讲一下 `iOS` 内存管理的理解？(三种方案的结合) - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/1.内存管理/1.第一题.md)
-- 2.使用自动引用计（`ARC`）数应该遵循的原则? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/1.内存管理/2.第二题.md)
-- 3.`ARC` 自动内存管理的原则？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/1.内存管理/3.第三题.md)
-- 4.访问 `__weak` 修饰的变量，是否已经被注册在了 `@autoreleasePool` 中？为什么？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/1.内存管理/4.第四题.md)
-- 5.`ARC` 的 `retainCount` 怎么存储的？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/1.内存管理/5.第五题.md)
-- 6.简要说一下 `@autoreleasePool` 的数据结构？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/1.内存管理/6.第六题.md)
-- 7.`__weak` 和 `_Unsafe_Unretain` 的区别？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/1.内存管理/7.第七题.md)
-- 8.为什么已经有了 `ARC` ,但还是需要 `@AutoreleasePool` 的存在？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/1.内存管理/8.第八题.md)
-- 9.`__weak` 属性修饰的变量，如何实现在变量没有强引用后自动置为 `nil`？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/1.内存管理/9.第九题.md)
-- 10.说一下对 `retain`,`copy`,`assign`,`weak`,`_Unsafe_Unretain` 关键字的理解。 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/1.内存管理/10.第十题.md)
-- 11.`ARC` 在编译时做了哪些工作？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/1.内存管理/11.第十一题.md)
-- 12.`ARC` 在运行时做了哪些工作？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/1.内存管理/12.第十二题.md)
-- 13.函数返回一个对象时，会对对象 `autorelease` 么？为什么？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/1.内存管理/13.第十三题.md)
-- 14.说一下什么是 `悬垂指针`？什么是 `野指针`? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/1.内存管理/14.第十四题.md)
-- 15.内存管理默认的关键字是什么？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/1.内存管理/15.第十五题.md)
-- 16.内存中的5大区分别是什么？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/1.内存管理/16.第十六题.md)
-- 17.是否了解 `深拷贝` 和 `浅拷贝` 的概念，集合类深拷贝如何实现？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/1.内存管理/17.第十七题.md)
-- 18.`BAD_ACCESS` 在什么情况下出现? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/1.内存管理/18.第十八题.md)
-- 19.讲一下 `@dynamic` 关键字？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/1.内存管理/19.第十九题.md)
-- 20.`@autoreleasrPool` 的释放时机？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/1.内存管理/20.第二十题.md)
-- 21.`retain`、`release` 的实现机制？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/1.内存管理/21.第二十一题.md)
-- 22.能不能简述一下 `Dealloc` 的实现机制？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/1.内存管理/22.第二十二题.md)
-- 23.在 `MRC` 下如何重写属性的 `Setter` 和 `Getter`? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/1.内存管理/23.第二十三题.md)
-- 24.在 `Obj-C` 中，如何检测内存泄漏？你知道哪些方式？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/1.内存管理/24.第二十四题.md)
+- 1.讲一下 `iOS` 内存管理的理解？(三种方案的结合) - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/内存管理/1.第一题.md)
+- 2.使用自动引用计（`ARC`）数应该遵循的原则? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/内存管理/2.第二题.md)
+- 3.`ARC` 自动内存管理的原则？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/内存管理/3.第三题.md)
+- 4.访问 `__weak` 修饰的变量，是否已经被注册在了 `@autoreleasePool` 中？为什么？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/内存管理/4.第四题.md)
+- 5.`ARC` 的 `retainCount` 怎么存储的？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/内存管理/5.第五题.md)
+- 6.简要说一下 `@autoreleasePool` 的数据结构？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/内存管理/6.第六题.md)
+- 7.`__weak` 和 `_Unsafe_Unretain` 的区别？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/内存管理/7.第七题.md)
+- 8.为什么已经有了 `ARC` ,但还是需要 `@AutoreleasePool` 的存在？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/内存管理/8.第八题.md)
+- 9.`__weak` 属性修饰的变量，如何实现在变量没有强引用后自动置为 `nil`？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/内存管理/9.第九题.md)
+- 10.说一下对 `retain`,`copy`,`assign`,`weak`,`_Unsafe_Unretain` 关键字的理解。 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/内存管理/10.第十题.md)
+- 11.`ARC` 在编译时做了哪些工作？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/内存管理/11.第十一题.md)
+- 12.`ARC` 在运行时做了哪些工作？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/内存管理/12.第十二题.md)
+- 13.函数返回一个对象时，会对对象 `autorelease` 么？为什么？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/内存管理/13.第十三题.md)
+- 14.说一下什么是 `悬垂指针`？什么是 `野指针`? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/内存管理/14.第十四题.md)
+- 15.内存管理默认的关键字是什么？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/内存管理/15.第十五题.md)
+- 16.内存中的5大区分别是什么？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/内存管理/16.第十六题.md)
+- 17.是否了解 `深拷贝` 和 `浅拷贝` 的概念，集合类深拷贝如何实现？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/内存管理/17.第十七题.md)
+- 18.`BAD_ACCESS` 在什么情况下出现? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/内存管理/18.第十八题.md)
+- 19.讲一下 `@dynamic` 关键字？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/内存管理/19.第十九题.md)
+- 20.`@autoreleasrPool` 的释放时机？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/内存管理/20.第二十题.md)
+- 21.`retain`、`release` 的实现机制？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/内存管理/21.第二十一题.md)
+- 22.能不能简述一下 `Dealloc` 的实现机制？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/内存管理/22.第二十二题.md)
+- 23.在 `MRC` 下如何重写属性的 `Setter` 和 `Getter`? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/内存管理/23.第二十三题.md)
+- 24.在 `Obj-C` 中，如何检测内存泄漏？你知道哪些方式？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/内存管理/24.第二十四题.md)
 
 
 ## 2.Runtime
-- 1.实例对象的数据结构？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/2.Runtime/1.第一题.md)
-- 2.类对象的数据结构？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/2.Runtime/2.第二题.md)
-- 3.元类对象的数据结构? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/2.Runtime/3.第三题.md)
-- 4.`Category` 的实现原理？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/2.Runtime/4.第四题.md)
-- 5.如何给 `Category` 添加属性？关联对象以什么形式进行存储？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/2.Runtime/5.第五题.md)
-- 6.`Category` 有哪些用途？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/2.Runtime/6.第六题.md)
-- 7.`Category` 和 `Extension` 有什么区别？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/2.Runtime/7.第七题.md)
-- 8.说一下 `Method Swizzling`? 说一下在实际开发中你在什么场景下使用过? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/2.Runtime/8.第八题.md)
-- 9.如何实现动态添加方法和属性？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/2.Runtime/9.第九题.md)
-- 10.说一下对 `isa` 指针的理解， 对象的`isa` 指针指向哪里？`isa` 指针有哪两种类型？（注意区分不同对象） - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/2.Runtime/10.第十题.md)
-- 11.`Obj-C` 中的类信息存放在哪里？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/2.Runtime/11.第十一题.md)
-- 12.一个 `NSObject` 对象占用多少内存空间？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/2.Runtime/12.第十二题.md)
-- 13.说一下对 `class_rw_t` 的理解？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/2.Runtime/13.第十三题.md)
-- 14.说一下对 `class_ro_t` 的理解？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/2.Runtime/14.第十四题.md)
-- 15.说一下 `Runtime` 消息解析。- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/2.Runtime/15.第十五题.md)
-- 16.说一下 `Runtime` 消息转发。- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/2.Runtime/15.第十五题.md)
-- 17.如何运用 `Runtime` 字典转模型？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/2.Runtime/17.第十七题.md)
-- 18.如何运用 `Runtime` 进行模型的归解档？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/2.Runtime/18.第十八题.md)
-- 19.在 `Obj-C` 中为什么叫发消息而不叫函数调用？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/2.Runtime/19.第十九题.md)
+- 1.实例对象的数据结构？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Runtime/1.第一题.md)
+- 2.类对象的数据结构？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Runtime/2.第二题.md)
+- 3.元类对象的数据结构? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Runtime/3.第三题.md)
+- 4.`Category` 的实现原理？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Runtime/4.第四题.md)
+- 5.如何给 `Category` 添加属性？关联对象以什么形式进行存储？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Runtime/5.第五题.md)
+- 6.`Category` 有哪些用途？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Runtime/6.第六题.md)
+- 7.`Category` 和 `Extension` 有什么区别？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Runtime/7.第七题.md)
+- 8.说一下 `Method Swizzling`? 说一下在实际开发中你在什么场景下使用过? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Runtime/8.第八题.md)
+- 9.如何实现动态添加方法和属性？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Runtime/9.第九题.md)
+- 10.说一下对 `isa` 指针的理解， 对象的`isa` 指针指向哪里？`isa` 指针有哪两种类型？（注意区分不同对象） - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Runtime/10.第十题.md)
+- 11.`Obj-C` 中的类信息存放在哪里？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Runtime/11.第十一题.md)
+- 12.一个 `NSObject` 对象占用多少内存空间？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Runtime/12.第十二题.md)
+- 13.说一下对 `class_rw_t` 的理解？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Runtime/13.第十三题.md)
+- 14.说一下对 `class_ro_t` 的理解？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Runtime/14.第十四题.md)
+- 15.说一下 `Runtime` 消息解析。- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Runtime/15.第十五题.md)
+- 16.说一下 `Runtime` 消息转发。- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Runtime/15.第十五题.md)
+- 17.如何运用 `Runtime` 字典转模型？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Runtime/17.第十七题.md)
+- 18.如何运用 `Runtime` 进行模型的归解档？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Runtime/18.第十八题.md)
+- 19.在 `Obj-C` 中为什么叫发消息而不叫函数调用？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Runtime/19.第十九题.md)
 - 20.说一下对 `runtime` 的理解。（主要讲一下消息机制，是对上述的总结）
-- 21.说一下 `Runtime` 的方法缓存？存储的形式、数据结构以及查找的过程？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/2.Runtime/21.第二十一题.md)
-- 22.是否了解 `Type Encoding`? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/2.Runtime/22.第二十二题.md)
-- 23.`Objective-C` 如何实现多重继承？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/2.Runtime/23.第二十三题.md)
+- 21.说一下 `Runtime` 的方法缓存？存储的形式、数据结构以及查找的过程？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Runtime/21.第二十一题.md)
+- 22.是否了解 `Type Encoding`? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Runtime/22.第二十二题.md)
+- 23.`Objective-C` 如何实现多重继承？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Runtime/23.第二十三题.md)
 
 
 ## 3.Runloop
-- 1.`Runloop` 和线程的关系？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/3.Runloop/1.第一题.md)
-- 2.讲一下 `Runloop` 的 `Mode`?(越详细越好)  - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/3.Runloop/2.第二题.md)
-- 3.讲一下 `Observer` ？（Mode中的重点） - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/3.Runloop/3.第三题.md)
-- 4.讲一下 `Runloop` 的内部实现逻辑？（运行过程） - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/3.Runloop/4.第四题.md)
+- 1.`Runloop` 和线程的关系？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Runloop/1.第一题.md)
+- 2.讲一下 `Runloop` 的 `Mode`?(越详细越好)  - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Runloop/2.第二题.md)
+- 3.讲一下 `Observer` ？（Mode中的重点） - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Runloop/3.第三题.md)
+- 4.讲一下 `Runloop` 的内部实现逻辑？（运行过程） - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Runloop/4.第四题.md)
 - 5.你所知的哪些三方框架使用了 `Runloop`?（AFNetworking、Texture 等）
-- 6.`autoreleasePool` 在何时被释放？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/3.Runloop/6.第六题.md)
-- 7.解释一下 `事件响应` 的过程？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/3.Runloop/7.第七题.md)
-- 8.解释一下 `手势识别` 的过程？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/3.Runloop/8.第八题.md)
-- 9.解释一下 `GCD` 在 `Runloop` 中的使用？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/3.Runloop/9.第九题.md)
-- 10.解释一下 `NSTimer`，以及 `NSTimer` 的循环引用。 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/3.Runloop/10.第十题.md)
-- 11.`AFNetworking` 中如何运用 `Runloop`? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/3.Runloop/11.第十一题.md)
-- 12.`PerformSelector` 的实现原理？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/3.Runloop/12.第十二题.md)
-- 13.利用 `runloop` 解释一下页面的渲染的过程？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/3.Runloop/13.第十三题.md)
-- 14.如何使用 `Runloop` 实现一个常驻线程？这种线程一般有什么作用？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/3.Runloop/14.第十四题.md)
-- 15.为什么 `NSTimer` 有时候不好使？（不同类型的Mode）- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/3.Runloop/15.第十五题.md)
-- 16.`PerformSelector:afterDelay:`这个方法在子线程中是否起作用？为什么？怎么解决？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/3.Runloop/16.第十六题.md)
-- 17.什么是异步绘制？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/3.Runloop/17.第十七题.md)
+- 6.`autoreleasePool` 在何时被释放？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Runloop/6.第六题.md)
+- 7.解释一下 `事件响应` 的过程？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Runloop/7.第七题.md)
+- 8.解释一下 `手势识别` 的过程？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Runloop/8.第八题.md)
+- 9.解释一下 `GCD` 在 `Runloop` 中的使用？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Runloop/9.第九题.md)
+- 10.解释一下 `NSTimer`，以及 `NSTimer` 的循环引用。 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Runloop/10.第十题.md)
+- 11.`AFNetworking` 中如何运用 `Runloop`? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Runloop/11.第十一题.md)
+- 12.`PerformSelector` 的实现原理？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Runloop/12.第十二题.md)
+- 13.利用 `runloop` 解释一下页面的渲染的过程？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Runloop/13.第十三题.md)
+- 14.如何使用 `Runloop` 实现一个常驻线程？这种线程一般有什么作用？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Runloop/14.第十四题.md)
+- 15.为什么 `NSTimer` 有时候不好使？（不同类型的Mode）- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Runloop/15.第十五题.md)
+- 16.`PerformSelector:afterDelay:`这个方法在子线程中是否起作用？为什么？怎么解决？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Runloop/16.第十六题.md)
+- 17.什么是异步绘制？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Runloop/17.第十七题.md)
 - 18.如何检测 `App` 运行过程中是否卡顿？
 
 
 ## 4.网络
 - 1.`NSUrlConnect`相关知识。
 - 2.`NSUrlSession`相关知识。
-- 3.`Http` 和 `Https` 的区别？为什么更加安全？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/4.网络/3.第三题.md)
-- 4.`Http`的请求方式有哪些？`Http` 有什么特性？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/4.网络/4.第四题.md)
-- 5.解释一下 `三次握手` 和 `四次挥手`？解释一下为什么是`三次握手` 又为什么是 `四次挥手`？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/4.网络/5.第五题.md)
-- 6.`GET` 和 `POST` 请求的区别？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/4.网络/6.第六题.md)
-- 7.`HTTP` 请求报文 和 响应报文的结构？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/4.网络/7.第七题.md)
-- 8.什么是 `Mimetype` ? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/4.网络/8.第八题.md)
-- 9.数据传输的加密过程？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/4.网络/9.第九题.md)
-- 10.说一下 `TCP/IP` 五层模型的协议? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/4.网络/10.第十题.md)
-- 11.说一下 `OSI` 七层模型的协议? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/4.网络/11.第十一题.md)
-- 12.`大文件下载` 的功能有什么注意点？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/4.网络/12.第十二题.md)
-- 13.`断点续传` 功能该怎么实现？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/4.网络/13.第十三题.md)
+- 3.`Http` 和 `Https` 的区别？为什么更加安全？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/网络/3.第三题.md)
+- 4.`Http`的请求方式有哪些？`Http` 有什么特性？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/网络/4.第四题.md)
+- 5.解释一下 `三次握手` 和 `四次挥手`？解释一下为什么是`三次握手` 又为什么是 `四次挥手`？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/网络/5.第五题.md)
+- 6.`GET` 和 `POST` 请求的区别？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/网络/6.第六题.md)
+- 7.`HTTP` 请求报文 和 响应报文的结构？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/网络/7.第七题.md)
+- 8.什么是 `Mimetype` ? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/网络/8.第八题.md)
+- 9.数据传输的加密过程？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/网络/9.第九题.md)
+- 10.说一下 `TCP/IP` 五层模型的协议? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/网络/10.第十题.md)
+- 11.说一下 `OSI` 七层模型的协议? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/网络/11.第十一题.md)
+- 12.`大文件下载` 的功能有什么注意点？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/网络/12.第十二题.md)
+- 13.`断点续传` 功能该怎么实现？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/网络/13.第十三题.md)
 - 14.封装一个网络框架有哪些注意点？
 - 15.`Wireshark`、`Charles`、`Paw` 等工具会使用吗？
-- 16.`NSUrlProtocol`用过吗？用在什么地方了？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/4.网络/16.第十六题.md)
-- 17.如何在测试过程中 `MOCK` 各种网络环境？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/4.网络/17.第十七题.md)
-- 18.`DNS` 的解析过程？网络的 `DNS` 优化。 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/4.网络/18.第十八题.md)
-- 19.`Post`请求体有哪些格式？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/4.网络/19.第十九题.md)
-- 20.网络请求的状态码都大致代表什么意思？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/4.网络/20.第二十题.md)
-- 21.抓包软件 `Charles` 的原理是什么？说一下中间人攻击的过程。- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/4.网络/21.第二十一题.md)
-- 22.如何判断一个请求是否结束？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/4.网络/22.第二十二题.md)
-- 23.`SSL` 传输协议？说一下 `SSL` 验证过程？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/4.网络/23.第二十三题.md)
-- 24.解释一下 `Http` 的持久连接？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/4.网络/24.第二十四题.md)
-- 25.说一下传输控制协议 - `TCP` ?- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/4.网络/25.第二十五题.md)
-- 26.说一下用户数据报协议 - `UDP` ? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/4.网络/26.第二十六题.md)
-- 27.谈一谈网络中的 `session` 和 `cookie`? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/4.网络/27.第二十七题.md)
+- 16.`NSUrlProtocol`用过吗？用在什么地方了？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/网络/16.第十六题.md)
+- 17.如何在测试过程中 `MOCK` 各种网络环境？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/网络/17.第十七题.md)
+- 18.`DNS` 的解析过程？网络的 `DNS` 优化。 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/网络/18.第十八题.md)
+- 19.`Post`请求体有哪些格式？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/网络/19.第十九题.md)
+- 20.网络请求的状态码都大致代表什么意思？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/网络/20.第二十题.md)
+- 21.抓包软件 `Charles` 的原理是什么？说一下中间人攻击的过程。- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/网络/21.第二十一题.md)
+- 22.如何判断一个请求是否结束？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/网络/22.第二十二题.md)
+- 23.`SSL` 传输协议？说一下 `SSL` 验证过程？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/网络/23.第二十三题.md)
+- 24.解释一下 `Http` 的持久连接？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/网络/24.第二十四题.md)
+- 25.说一下传输控制协议 - `TCP` ?- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/网络/25.第二十五题.md)
+- 26.说一下用户数据报协议 - `UDP` ? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/网络/26.第二十六题.md)
+- 27.谈一谈网络中的 `session` 和 `cookie`? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/网络/27.第二十七题.md)
 - 28.发球网络请求的时候，如果带宽 `1M`,如何针对某些请求，限制其流量?
 
 ## 5.多线程
-- 1.`NSThread`相关知识？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/5.多线程/1.第一题.md)
-- 2.`GCD` 相关知识？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/5.多线程/2.第二题.md)
+- 1.`NSThread`相关知识？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/多线程/1.第一题.md)
+- 2.`GCD` 相关知识？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/多线程/2.第二题.md)
 - 3.`NSOperation` 和 `NSOperationQueue`相关知识？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/5.多线程/3.第三题.md)
-- 4.如何实现线性编程？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/5.多线程/4.第四题.md)
+- 4.如何实现线性编程？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/多线程/4.第四题.md)
 - 5.说一下 `GCD` 并发队列实现机制？
-- 6.`NSLock`？是否会出现死锁？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/5.多线程/6.第六题.md)
-- 7.`NSContion` - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/5.多线程/7.第七题.md)
-- 8.条件锁 - `NSContionLock`  - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/5.多线程/8.第八题.md)
-- 9.递归锁 - `NSRecursiveLock` - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/5.多线程/9.第九题.md)
-- 10.同步锁 - `Synchronized(self) {// code}`  - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/5.多线程/10.第十题.md)
-- 11.信号量 - `dispatch_semaphore`。 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/5.多线程/11.第十一题.md)
-- 12.自旋锁 - `OSSpinLock` 。 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/5.多线程/12.第十二题.md)
-- 13.多功能🔐 - `pthread_mutex` - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/5.多线程/13.第十三题.md)
-- 14.分步锁 - `NSDistributedLock`。- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/5.多线程/14.第十四题.md)
-- 15.如何确保线程安全？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/5.多线程/15.第十五题.md)
-- 16.`NSMutableArray`、和 `NSMutableDictionary`是线程安全的吗？`NSCache`呢？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/5.多线程/16.第十六题.md)
-- 17.多线程的 `并行` 和 `并发` 有什么区别？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/5.多线程/17.第十七题.md)
-- 18.多线程有哪些优缺点？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/5.多线程/18.第十八题.md)
-- 19.如何自定义 `NSOperation` ? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/5.多线程/19.第十九题.md)
+- 6.`NSLock`？是否会出现死锁？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/多线程/6.第六题.md)
+- 7.`NSContion` - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/多线程/7.第七题.md)
+- 8.条件锁 - `NSContionLock`  - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/多线程/8.第八题.md)
+- 9.递归锁 - `NSRecursiveLock` - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/多线程/9.第九题.md)
+- 10.同步锁 - `Synchronized(self) {// code}`  - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/多线程/10.第十题.md)
+- 11.信号量 - `dispatch_semaphore`。 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/多线程/11.第十一题.md)
+- 12.自旋锁 - `OSSpinLock` 。 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/多线程/12.第十二题.md)
+- 13.多功能🔐 - `pthread_mutex` - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/多线程/13.第十三题.md)
+- 14.分步锁 - `NSDistributedLock`。- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/多线程/14.第十四题.md)
+- 15.如何确保线程安全？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/多线程/15.第十五题.md)
+- 16.`NSMutableArray`、和 `NSMutableDictionary`是线程安全的吗？`NSCache`呢？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/多线程/16.第十六题.md)
+- 17.多线程的 `并行` 和 `并发` 有什么区别？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/多线程/17.第十七题.md)
+- 18.多线程有哪些优缺点？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/多线程/18.第十八题.md)
+- 19.如何自定义 `NSOperation` ? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/多线程/19.第十九题.md)
 - 20.`GCD` 与 `NSOperationQueue` 有哪些异同？
 - 21.解释一下多线程中的死锁？
 
@@ -243,33 +243,33 @@
 
 ## 7.消息传递的方式
 
-- 1.说一下 `NSNotification` 的实现机制？发消息是同步还是异步？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/7.消息传递的方式/1.第一题.md)
-- 2.说一下 `NSNotification` 的特点。 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/7.消息传递的方式/2.第二题.md)
-- 3.简述 `KVO` 的实现机制。 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/7.消息传递的方式/3.第三题.md)
-- 4.`KVO` 在使用过程中有哪些注意点？有没有使用过其他优秀的 `KVO` 三方替代框架？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/7.消息传递的方式/4.第四题.md)
-- 5.简述 `KVO` 的注册依赖键是什么？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/7.消息传递的方式/5.第五题.md)
-- 6.如何做到 `KVO` 手动通知？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/7.消息传递的方式/6.第六题.md)
-- 7.在什么情况下会触发 `KVO`?  - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/7.消息传递的方式/7.第七题.md)
-- 8.给实例变量赋值时，是否会触发 `KVO`?  - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/7.消息传递的方式/8.第八题.md)
-- 9.`Delegate`通常用什么关键字修饰？为什么？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/7.消息传递的方式/9.第九题.md)
-- 10.`通知` 和 `代理` 有什么区别？各自适应的场景？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/7.消息传递的方式/10.第十题.md)
-- 11.`__block` 的解释以及在 `ARC` 和 `MRC` 下有什么不同？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/7.消息传递的方式/11.第十一题.md)
-- 12.`Block` 的内存管理。- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/7.消息传递的方式/12.第十二题.md)
-- 13.`Block` 自动截取变量。- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/7.消息传递的方式/13.第十三题.md)
-- 14.`Block` 处理循环引用。- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/7.消息传递的方式/14.第十四题.md)
-- 15.`Block` 有几种类型？分别是什么？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/7.消息传递的方式/15.第十五题.md)
-- 16.`Block` 和 `函数指针` 的区别? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/7.消息传递的方式/16.第十六题.md)
+- 1.说一下 `NSNotification` 的实现机制？发消息是同步还是异步？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/消息传递的方式/1.第一题.md)
+- 2.说一下 `NSNotification` 的特点。 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/消息传递的方式/2.第二题.md)
+- 3.简述 `KVO` 的实现机制。 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/消息传递的方式/3.第三题.md)
+- 4.`KVO` 在使用过程中有哪些注意点？有没有使用过其他优秀的 `KVO` 三方替代框架？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/消息传递的方式/4.第四题.md)
+- 5.简述 `KVO` 的注册依赖键是什么？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/消息传递的方式/5.第五题.md)
+- 6.如何做到 `KVO` 手动通知？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/消息传递的方式/6.第六题.md)
+- 7.在什么情况下会触发 `KVO`?  - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/消息传递的方式/7.第七题.md)
+- 8.给实例变量赋值时，是否会触发 `KVO`?  - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/消息传递的方式/8.第八题.md)
+- 9.`Delegate`通常用什么关键字修饰？为什么？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/消息传递的方式/9.第九题.md)
+- 10.`通知` 和 `代理` 有什么区别？各自适应的场景？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/消息传递的方式/10.第十题.md)
+- 11.`__block` 的解释以及在 `ARC` 和 `MRC` 下有什么不同？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/消息传递的方式/11.第十一题.md)
+- 12.`Block` 的内存管理。- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/消息传递的方式/12.第十二题.md)
+- 13.`Block` 自动截取变量。- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/消息传递的方式/13.第十三题.md)
+- 14.`Block` 处理循环引用。- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/消息传递的方式/14.第十四题.md)
+- 15.`Block` 有几种类型？分别是什么？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/消息传递的方式/15.第十五题.md)
+- 16.`Block` 和 `函数指针` 的区别? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/消息传递的方式/16.第十六题.md)
 
 ## 8.数据存储
 - 1.Sqlite3 
-    - 1.简单说一下 `Sqlite3` - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/8.数据存储/1.1-1.md)
+    - 1.简单说一下 `Sqlite3` - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/数据存储/1.1-1.md)
     - 2.`Sqlite3` 常用的执行语句
     - 3.`Sqlite3` 在不同版本的APP，数据库结构变化了，如何处理?
-- FMDB (`Sqlite3` 的封装)-- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/8.数据存储/2.2-1.md)
+- FMDB (`Sqlite3` 的封装)-- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/数据存储/2.2-1.md)
 - Realm
-- NSKeyArchieve - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/8.数据存储/4.4-1.md)
-- Preperfence - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/8.数据存储/5.5-1.md)
-- Plist - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/8.数据存储/6.6-1.md)
+- NSKeyArchieve - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/数据存储/4.4-1.md)
+- Preperfence - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/数据存储/5.5-1.md)
+- Plist - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/数据存储/6.6-1.md)
 - CoreDate
 - Keychain
 - UIPasteBoard(感谢 lilingyu0620 同学提醒)
@@ -280,10 +280,10 @@
 
 > 这个模块需要大量代码，我就不贴了
 
-- 1.编程中的六大设计原则？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/9.设计模式/1.第一题.md)
-- 2.如何设计一个图片缓存框架？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/9.设计模式/2.第二题.md)
-- 3.如何设计一个时长统计框架？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/9.设计模式/3.第三题.md)
-- 4.如何实现 `App` 换肤（夜间模式）？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/9.设计模式/4.第四题.md)
+- 1.编程中的六大设计原则？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/设计模式/1.第一题.md)
+- 2.如何设计一个图片缓存框架？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/设计模式/2.第二题.md)
+- 3.如何设计一个时长统计框架？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/设计模式/3.第三题.md)
+- 4.如何实现 `App` 换肤（夜间模式）？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/设计模式/4.第四题.md)
 - 5.外观模式
 - 6.中介者模式
 - 7.访问者模式
@@ -317,10 +317,10 @@
 
 ## 17.代码管理、持续集成、项目托管
 - 1.Git
-    - 1.`git pull` 和 `git fetch` 的区别？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/17.代码管理/1.1-1.md)
-    - 2.`git merge` 和 `git rebase` 的区别？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/17.代码管理/1.1-2.md)
-    - 3.如何在本地新建一个分支，并 `push` 到远程服务器上？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/17.代码管理/1.1-3.md)
-    - 4.如果 `fork` 了一个别人的仓库，怎样与源仓库保持同步？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/17.代码管理/1.1-4.md)
+    - 1.`git pull` 和 `git fetch` 的区别？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/代码管理/1.1-1.md)
+    - 2.`git merge` 和 `git rebase` 的区别？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/代码管理/1.1-2.md)
+    - 3.如何在本地新建一个分支，并 `push` 到远程服务器上？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/代码管理/1.1-3.md)
+    - 4.如果 `fork` 了一个别人的仓库，怎样与源仓库保持同步？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/代码管理/1.1-4.md)
 - 2.Svn
 - 3.CocoaPods
     - 1.说一下 `CocoaPods` 的原理？
@@ -337,18 +337,18 @@
 - 9.TestFlight
 
 ## 18.数据安全及加密
-- 1.RSA非对称加密 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/18.数据安全及加密/1.第一题.md)
+- 1.RSA非对称加密 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/数据安全及加密/1.第一题.md)
 - 2.AES对称加密
 - 3.DES加密
 - 4.Base64加密
 - 5.MD5加密
-- 6.简述 `SSL` 加密的过程用了哪些加密方法，为何这么做？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/18.数据安全及加密/6.第六题.md)
+- 6.简述 `SSL` 加密的过程用了哪些加密方法，为何这么做？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/数据安全及加密/6.第六题.md)
 - 7.是否了解 `iOS` 的签名机制？
 - 8.如何对 `APP` 进行重签名？
 
 ## 19.源代码阅读
 - 1.YYKit
-- 2.SDWebImage  - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/19.源代码阅读/2.第二题.md)
+- 2.SDWebImage  - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/源代码阅读/2.第二题.md)
 - 3.AFNetworking
 - 4.SVProgressHub 
 - 5.Texture（ASDK）
@@ -356,7 +356,7 @@
 ## 20.iOS逆向及安全
 
 ## 21.性能优化
-- 1.如何提升 `tableview` 的流畅度？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/21.性能优化/1.第一题.md)
+- 1.如何提升 `tableview` 的流畅度？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/性能优化/1.第一题.md)
 - 2.如何使用 `Instruments` 进行性能调优？(Time Profiler、Zombies、Allocations、Leaks)
 - 3.如何优化 `APP` 的启动时间？（感谢 @静待海棠花开 的提醒）
 - 4.如何对 `APP` 进行内存、电量、网络流量的优化？（感谢 @静待海棠花开 的提醒）
@@ -364,7 +364,7 @@
 - 6.日常如何检查内存泄露？
 - 7.能不能说一下物理屏幕显示的原理？
 - 8.解释一下什么是屏幕卡顿、掉帧？该如何避免？
-- 9.什么是 `离屏渲染`？什么情况下会触发？该如何应对？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/21.性能优化/9.第九题.md)
+- 9.什么是 `离屏渲染`？什么情况下会触发？该如何应对？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/性能优化/9.第九题.md)
 
 ## 22.调试技巧 & 软件使用
 - 1.`LLDB` 调试。
@@ -372,7 +372,7 @@
 - 3.`NSAssert` 的使用。
 - 4.`Charles` 的使用。
 - 5.`Reveal` 的使用。
-- 6.`iOS` 常见的崩溃类型有哪些？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/22.调试技巧/6.第六题.md)
+- 6.`iOS` 常见的崩溃类型有哪些？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/调试技巧/6.第六题.md)
 
 ## 23.扩展问题
 - 1.无痕埋点
@@ -381,30 +381,30 @@
 - 4.崩溃的处理
 
 ## 24.其他问题
-- 1.`UIView` 和 `CALayer` 是什么关系？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/24.其他问题/1.第一题.md)
-- 2.`Bounds` 和 `Frame` 的区别? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/24.其他问题/2.第二题.md)
-- 3.`nil`、`NIL`、`NSNULL` 有什么区别？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/24.其他问题/3.第三题.md)
-- 4.如何实现一个线程安全的 `NSMutableArray`? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/24.其他问题/4.第四题.md)
-- 5.如何定义一台 `iOS` 设备的唯一性? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/24.其他问题/5.第五题.md)
-- 6.如何高性能的画一个圆角？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/24.其他问题/6.第六题.md)
-- 7.`load` 和 `Initialize` 的区别? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/24.其他问题/7.第七题.md)
-- 8.`Designated Initializer`的规则？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/24.其他问题/8.第八题.md)
-- 9.`App` 编译过程有了解吗？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/24.其他问题/9.第九题.md)
-- 10.`JS` 和 `Native` 交互。- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/24.其他问题/10.第十题.md)
-- 11.`atomic` 修饰的属性是绝对安全的吗？为什么？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/24.其他问题/11.第十一题.md)
-- 12.`LoadView`方法了解吗？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/24.其他问题/12.第十二题.md)
-- 13.说一下对 `APNS` 的认识？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/24.其他问题/12.第十二题.md)
+- 1.`UIView` 和 `CALayer` 是什么关系？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/其他问题/1.第一题.md)
+- 2.`Bounds` 和 `Frame` 的区别? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/其他问题/2.第二题.md)
+- 3.`nil`、`NIL`、`NSNULL` 有什么区别？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/其他问题/3.第三题.md)
+- 4.如何实现一个线程安全的 `NSMutableArray`? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/其他问题/4.第四题.md)
+- 5.如何定义一台 `iOS` 设备的唯一性? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/其他问题/5.第五题.md)
+- 6.如何高性能的画一个圆角？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/其他问题/6.第六题.md)
+- 7.`load` 和 `Initialize` 的区别? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/其他问题/7.第七题.md)
+- 8.`Designated Initializer`的规则？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/其他问题/8.第八题.md)
+- 9.`App` 编译过程有了解吗？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/其他问题/9.第九题.md)
+- 10.`JS` 和 `Native` 交互。- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/其他问题/10.第十题.md)
+- 11.`atomic` 修饰的属性是绝对安全的吗？为什么？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/其他问题/11.第十一题.md)
+- 12.`LoadView`方法了解吗？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/其他问题/12.第十二题.md)
+- 13.说一下对 `APNS` 的认识？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/其他问题/12.第十二题.md)
 - 14.实现 `isEqual` 和 `hash` 方法时要注意什么？
-- 15.`UIButton` 的父类是什么？`UILabel` 的父类又是什么？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/24.其他问题/15.第十五题.md)
-- 16.实现一个控件，可以浮在任意界面的上层并支持拖动？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/24.其他问题/16.第十六题.md)
-- 17.`id` 和 `instanceType` 有什么区别？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/24.其他问题/17.第十七题.md)
-- 18.说一下控制器 `View` 的生命周期，一旦收到内存警告会如何处理？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/24.其他问题/18.第十八题.md)
-- 19.简述事件传递、事件响应机制。- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/24.其他问题/19.第十九题.md)
-- 20.说一下对 `Super` 关键字的理解。- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/24.其他问题/20.第二十题.md)
-- 21.了解 `逆变` 和 `协变` 吗？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/24.其他问题/21.第二十一题.md)
-- 22.`@synthesize` 和 `@dynamic` 分别有什么作用？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/24.其他问题/22.第二十二题.md)
-- 23.`Obj-C` 中的反射机制了解吗？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/24.其他问题/23.第二十三题.md)
-- 24.如何暂停一个 `UIView` 中正在播放的动画？暂停后如何恢复？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/24.其他问题/24.第二十四题.md)
+- 15.`UIButton` 的父类是什么？`UILabel` 的父类又是什么？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/其他问题/15.第十五题.md)
+- 16.实现一个控件，可以浮在任意界面的上层并支持拖动？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/其他问题/16.第十六题.md)
+- 17.`id` 和 `instanceType` 有什么区别？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/其他问题/17.第十七题.md)
+- 18.说一下控制器 `View` 的生命周期，一旦收到内存警告会如何处理？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/其他问题/18.第十八题.md)
+- 19.简述事件传递、事件响应机制。- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/其他问题/19.第十九题.md)
+- 20.说一下对 `Super` 关键字的理解。- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/其他问题/20.第二十题.md)
+- 21.了解 `逆变` 和 `协变` 吗？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/其他问题/21.第二十一题.md)
+- 22.`@synthesize` 和 `@dynamic` 分别有什么作用？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/其他问题/22.第二十二题.md)
+- 23.`Obj-C` 中的反射机制了解吗？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/其他问题/23.第二十三题.md)
+- 24.如何暂停一个 `UIView` 中正在播放的动画？暂停后如何恢复？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/其他问题/24.第二十四题.md)
 - 25.`App` 上有一数据列表，客户端和服务端均没有任何缓存，当服务端有数据更新时，该列表在 `wifi` 下能获取到数据，在 4G 下刷新不到，但是在 4g 环境下其他 `App` 都可以正常打开，分析其产生的原因？
 -26.能不能详细的讲一下 `CALayer`?
 
@@ -418,7 +418,7 @@ int a=5,b;
 b=(++a)+(++a);
 ```
 
-- 2.**不使用第三个变量，交换两个变量的值。**- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/25.计算题/2.第二题.md)
+- 2.**不使用第三个变量，交换两个变量的值。**- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/计算题/2.第二题.md)
 
 ```objc
 int a = 5;
@@ -439,7 +439,7 @@ int b = 10;
 }
 ```
 
-- 4.**编码求，给定一个整数，按照十进制的编码计算包含多少个 `0`?**  - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/25.计算题/4.第四题.md)
+- 4.**编码求，给定一个整数，按照十进制的编码计算包含多少个 `0`?**  - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/计算题/4.第四题.md)
 
 ## 26.开放性问题
 
