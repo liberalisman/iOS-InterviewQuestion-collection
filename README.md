@@ -176,6 +176,31 @@
 - 18.如何检测 `App` 运行过程中是否卡顿？
 
 
+## UIKit
+
+- 1.`UIView` 和 `CALayer` 是什么关系？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/UIKit/1.第一题.md)
+- 2.`Bounds` 和 `Frame` 的区别? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/UIKit/2.第二题.md)
+- 3.`TableViewCell` 如何根据 `UILabel` 内容长度自动调整高度?- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/UIKit/3.第三题.md)
+- 4.`LoadView`方法了解吗？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/UIKit/4.第四题.md)
+- 5.`UIButton` 的父类是什么？`UILabel` 的父类又是什么？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/UIKit/5.第五题.md)
+- 6.实现一个控件，可以浮在任意界面的上层并支持拖动？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/UIKit/6.第六题.md)
+- 7.说一下控制器 `View` 的生命周期，一旦收到内存警告会如何处理？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/UIKit/7.第七题.md)
+- 8.如何暂停一个 `UIView` 中正在播放的动画？暂停后如何恢复？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/UIKit/8.第八题.md)
+- 9.能不能详细的讲一下 `CALayer`? 
+
+## Foundation
+- 1.`nil`、`NIL`、`NSNULL` 有什么区别？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Foundation/1.第一题.md)
+- 2.如何实现一个线程安全的 `NSMutableArray`? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Foundation/2.第二题.md)
+- 3.如何定义一台 `iOS` 设备的唯一性? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Foundation/3.第三题.md)
+- 4.`atomic` 修饰的属性是绝对安全的吗？为什么？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Foundation/4.第四题.md)
+- 5.实现 `isEqual` 和 `hash` 方法时要注意什么？
+- 6.`id` 和 `instanceType` 有什么区别？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Foundation/6.第六题.md)
+- 7.简述事件传递、事件响应机制。- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Foundation/7.第七题.md)
+- 8.说一下对 `Super` 关键字的理解。- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Foundation/8.第八题.md)
+- 9.了解 `逆变` 和 `协变` 吗？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Foundation/9.第九题.md)
+- 10.`@synthesize` 和 `@dynamic` 分别有什么作用？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Foundation/10.第十题.md)
+- 11.`Obj-C` 中的反射机制了解吗？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Foundation/11.第十一题.md)
+
 ## 网络
 - 1.`NSUrlConnect`相关知识。
 - 2.`NSUrlSession`相关知识。
@@ -206,6 +231,8 @@
 - 27.谈一谈网络中的 `session` 和 `cookie`? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/网络/27.第二十七题.md)
 - 28.发送网络请求的时候，如果带宽 `1M`，如何针对某些请求，限制其流量?
 
+
+
 ## 多线程
 - 1.`NSThread`相关知识？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/多线程/1.第一题.md)
 - 2.`GCD` 相关知识？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/多线程/2.第二题.md)
@@ -229,6 +256,9 @@
 - 20.`GCD` 与 `NSOperationQueue` 有哪些异同？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/多线程/20.第二十题.md)
 - 21.解释一下多线程中的死锁？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/多线程/21.第二十一题.md)
 
+
+
+
 ## 项目架构
 - 1.什么是 `MVC`?
 - 2.什么是 `MVVM`?
@@ -240,6 +270,7 @@
     - 3.组件之间的通信方式。
     - 4.各组件之间的解耦。
 - 6.还了解哪些项目架构？你之前所在公司的架构是什么样的，简单说一下？
+- 7.从宏观上来讲 `App` 可以分为哪些层？
 
 ## 消息传递的方式
 
@@ -265,7 +296,7 @@
     - 1.简单说一下 `Sqlite3` - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/数据存储/1.1-1.md)
     - 2.`Sqlite3` 常用的执行语句
     - 3.`Sqlite3` 在不同版本的APP，数据库结构变化了，如何处理?
-- FMDB (`Sqlite3` 的封装)-- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/数据存储/2.2-1.md)
+- FMDB (`Sqlite3` 的封装) - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/数据存储/2.2-1.md)
 - Realm
 - NSKeyArchieve - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/数据存储/4.4-1.md)
 - Preperfence - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/数据存储/5.5-1.md)
@@ -359,6 +390,7 @@
 - 7.能不能说一下物理屏幕显示的原理？
 - 8.解释一下什么是屏幕卡顿、掉帧？该如何避免？
 - 9.什么是 `离屏渲染`？什么情况下会触发？该如何应对？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/性能优化/9.第九题.md)
+- 10.如何高性能的画一个圆角？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/性能优化/10.第十题.md)
 
 ## 调试技巧 & 软件使用
 - 1.`LLDB` 调试。
@@ -375,32 +407,14 @@
 - 4.崩溃的处理
 
 ## 其他问题
-- 1.`UIView` 和 `CALayer` 是什么关系？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/其他问题/1.第一题.md)
-- 2.`Bounds` 和 `Frame` 的区别? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/其他问题/2.第二题.md)
-- 3.`nil`、`NIL`、`NSNULL` 有什么区别？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/其他问题/3.第三题.md)
-- 4.如何实现一个线程安全的 `NSMutableArray`? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/其他问题/4.第四题.md)
-- 5.如何定义一台 `iOS` 设备的唯一性? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/其他问题/5.第五题.md)
-- 6.如何高性能的画一个圆角？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/其他问题/6.第六题.md)
-- 7.`load` 和 `Initialize` 的区别? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/其他问题/7.第七题.md)
-- 8.`Designated Initializer`的规则？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/其他问题/8.第八题.md)
-- 9.`App` 编译过程有了解吗？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/其他问题/9.第九题.md)
-- 10.`JS` 和 `Native` 交互。- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/其他问题/10.第十题.md)
-- 11.`atomic` 修饰的属性是绝对安全的吗？为什么？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/其他问题/11.第十一题.md)
-- 12.`LoadView`方法了解吗？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/其他问题/12.第十二题.md)
-- 13.说一下对 `APNS` 的认识？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/其他问题/12.第十二题.md)
-- 14.实现 `isEqual` 和 `hash` 方法时要注意什么？
-- 15.`UIButton` 的父类是什么？`UILabel` 的父类又是什么？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/其他问题/15.第十五题.md)
-- 16.实现一个控件，可以浮在任意界面的上层并支持拖动？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/其他问题/16.第十六题.md)
-- 17.`id` 和 `instanceType` 有什么区别？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/其他问题/17.第十七题.md)
-- 18.说一下控制器 `View` 的生命周期，一旦收到内存警告会如何处理？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/其他问题/18.第十八题.md)
-- 19.简述事件传递、事件响应机制。- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/其他问题/19.第十九题.md)
-- 20.说一下对 `Super` 关键字的理解。- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/其他问题/20.第二十题.md)
-- 21.了解 `逆变` 和 `协变` 吗？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/其他问题/21.第二十一题.md)
-- 22.`@synthesize` 和 `@dynamic` 分别有什么作用？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/其他问题/22.第二十二题.md)
-- 23.`Obj-C` 中的反射机制了解吗？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/其他问题/23.第二十三题.md)
-- 24.如何暂停一个 `UIView` 中正在播放的动画？暂停后如何恢复？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/其他问题/24.第二十四题.md)
-- 25.`App` 上有一数据列表，客户端和服务端均没有任何缓存，当服务端有数据更新时，该列表在 `wifi` 下能获取到数据，在 4G 下刷新不到，但是在 4g 环境下其他 `App` 都可以正常打开，分析其产生的原因？
-- 26.能不能详细的讲一下 `CALayer`?
+
+- 1.`load` 和 `Initialize` 的区别? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/其他问题/1.第一题.md)
+- 2.`Designated Initializer`的规则？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/其他问题/2.第二题.md)
+- 3.`App` 编译过程有了解吗？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/其他问题/3.第3题.md)
+- 4.说一下对 `APNS` 的认识？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/其他问题/4.第四题.md)
+- 5.`App` 上有一数据列表，客户端和服务端均没有任何缓存，当服务端有数据更新时，该列表在 `wifi` 下能获取到数据，在 4G 下刷新不到，但是在 4g 环境下其他 `App` 都可以正常打开，分析其产生的原因？
+
+
 
 
 
