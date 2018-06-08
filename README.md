@@ -226,8 +226,8 @@
 - 17.多线程的 `并行` 和 `并发` 有什么区别？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/多线程/17.第十七题.md)
 - 18.多线程有哪些优缺点？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/多线程/18.第十八题.md)
 - 19.如何自定义 `NSOperation` ? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/多线程/19.第十九题.md)
-- 20.`GCD` 与 `NSOperationQueue` 有哪些异同？
-- 21.解释一下多线程中的死锁？
+- 20.`GCD` 与 `NSOperationQueue` 有哪些异同？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/多线程/20.第二十题.md)
+- 21.解释一下多线程中的死锁？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/多线程/21.第二十一题.md)
 
 ## 项目架构
 - 1.什么是 `MVC`?
