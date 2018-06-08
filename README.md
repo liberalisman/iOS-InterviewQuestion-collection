@@ -180,7 +180,7 @@
 
 - 1.`UIView` 和 `CALayer` 是什么关系？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/UIKit/1.第一题.md)
 - 2.`Bounds` 和 `Frame` 的区别? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/UIKit/2.第二题.md)
-- 3.`TableViewCell` 如何根据 `UILabel` 内容长度自动调整高度?- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/UIKit/3.第三题.md)
+- 3.`TableViewCell` 如何根据 `UILabel` 内容长度自动调整高度?
 - 4.`LoadView`方法了解吗？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/UIKit/4.第四题.md)
 - 5.`UIButton` 的父类是什么？`UILabel` 的父类又是什么？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/UIKit/5.第五题.md)
 - 6.实现一个控件，可以浮在任意界面的上层并支持拖动？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/UIKit/6.第六题.md)
@@ -410,7 +410,7 @@
 
 - 1.`load` 和 `Initialize` 的区别? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/其他问题/1.第一题.md)
 - 2.`Designated Initializer`的规则？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/其他问题/2.第二题.md)
-- 3.`App` 编译过程有了解吗？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/其他问题/3.第3题.md)
+- 3.`App` 编译过程有了解吗？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/其他问题/3.第三题.md)
 - 4.说一下对 `APNS` 的认识？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/其他问题/4.第四题.md)
 - 5.`App` 上有一数据列表，客户端和服务端均没有任何缓存，当服务端有数据更新时，该列表在 `wifi` 下能获取到数据，在 4G 下刷新不到，但是在 4g 环境下其他 `App` 都可以正常打开，分析其产生的原因？
 
