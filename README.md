@@ -72,7 +72,7 @@
 - 冒泡排序 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/算法集合/冒泡排序.md)
 - 选择排序
 - 希尔排序
-- 快速排序
+- 归并排序
 
 ###### 常见的字符编码方法
 - 1.ASCII
