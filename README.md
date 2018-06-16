@@ -354,8 +354,6 @@
     - 2.如何让自己写的框架支持 `CocoaPods`？
     - 3.`pod update` 和 `pod install` 有什么区别？
     - 4.`Podfile.lock` 文件起什么作用？
-    - 5.如何集成本地私有库？
-    - 6.如何集成远程私有库 ？
 - 4.Carthage
 - 5.Fastlane
 - 6.Jenkins
@@ -381,6 +379,11 @@
 - 5.Texture（ASDK）
 
 ## iOS逆向及安全
+
+## 项目组件化
+- 1.说一下你之前项目的组件化方案？
+- 2.如何集成本地私有库？
+- 3.如何集成远程私有库？
 
 ## 性能优化
 - 1.如何提升 `tableview` 的流畅度？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/性能优化/1.第一题.md)
