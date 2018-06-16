@@ -382,8 +382,9 @@
 
 ## 项目组件化
 - 1.说一下你之前项目的组件化方案？
-- 2.如何集成本地私有库？
-- 3.如何集成远程私有库？
+- 2.项目的组件化模块应该如何划分？
+- 3.如何集成本地私有库？
+- 4.如何集成远程私有库？
 
 ## 性能优化
 - 1.如何提升 `tableview` 的流畅度？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/性能优化/1.第一题.md)
