@@ -187,6 +187,7 @@
 - 7.说一下控制器 `View` 的生命周期，一旦收到内存警告会如何处理？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/UIKit/7.第七题.md)
 - 8.如何暂停一个 `UIView` 中正在播放的动画？暂停后如何恢复？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/UIKit/8.第八题.md)
 - 9.说一下 `UIView` 的生命周期？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/UIKit/9.第九题.md)
+- 10.`UIViewController` 的生命周期？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/UIKit/10.第十题.md)
 
 ## Foundation
 - 1.`nil`、`NIL`、`NSNULL` 有什么区别？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Foundation/1.第一题.md)
@@ -337,8 +338,8 @@
 - 1.图像的压缩、解压。
 
 ## iOS 动画
-- 1.简要说一下常用的动画库。
-- 2.请说一下对 `CALayer` 的认识。
+- 1.简要说一下常用的动画库。- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Animation/1.第一题.md)
+- 2.请说一下对 `CALayer` 的认识。[链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Animation/2.第二题.md)
 - 3.解释一下 `CALayer.contents` 属性。
 
 
