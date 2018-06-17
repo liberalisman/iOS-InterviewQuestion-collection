@@ -186,7 +186,7 @@
 - 6.实现一个控件，可以浮在任意界面的上层并支持拖动？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/UIKit/6.第六题.md)
 - 7.说一下控制器 `View` 的生命周期，一旦收到内存警告会如何处理？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/UIKit/7.第七题.md)
 - 8.如何暂停一个 `UIView` 中正在播放的动画？暂停后如何恢复？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/UIKit/8.第八题.md)
-- 9.能不能详细的讲一下 `CALayer`? 
+- 9.说一下 `UIView` 的生命周期？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/UIKit/9.第九题.md)
 
 ## Foundation
 - 1.`nil`、`NIL`、`NSNULL` 有什么区别？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Foundation/1.第一题.md)
@@ -268,7 +268,7 @@
     - 1.说一下你了解的项目组件化方案？
     - 2.什么样的团队及项目适合采用组件化的形式进行开发？
     - 3.组件之间的通信方式。
-    - 4.各组件之间的解耦。
+    - 4.各组件之间的解耦合。
 - 6.还了解哪些项目架构？你之前所在公司的架构是什么样的，简单说一下？
 - 7.从宏观上来讲 `App` 可以分为哪些层？
 
