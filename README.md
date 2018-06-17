@@ -406,6 +406,7 @@
 - 4.`Charles` 的使用。
 - 5.`Reveal` 的使用。
 - 6.`iOS` 常见的崩溃类型有哪些？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/调试技巧/6.第六题.md)
+- 7.当页面 `AutoLayout` 出现了问题，怎样快速调试？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/调试技巧/7.第七题.md)
 
 ## 扩展问题
 - 1.无痕埋点
