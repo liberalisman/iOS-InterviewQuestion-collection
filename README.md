@@ -339,8 +339,8 @@
 
 ## iOS 动画
 - 1.简要说一下常用的动画库。- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Animation/1.第一题.md)
-- 2.请说一下对 `CALayer` 的认识。[链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Animation/2.第二题.md)
-- 3.解释一下 `CALayer.contents` 属性。
+- 2.请说一下对 `CALayer` 的认识。- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Animation/2.第二题.md)
+- 3.解释一下 `CALayer.contents` 属性。- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Animation/3.第三题.md)
 
 
 ## 代码管理、持续集成、项目托管
@@ -401,7 +401,7 @@
 
 ## 调试技巧 & 软件使用
 - 1.`LLDB` 调试。
-- 2.断点调试。
+- 2.断点调试 - `breakPoint`。
 - 3.`NSAssert` 的使用。
 - 4.`Charles` 的使用。
 - 5.`Reveal` 的使用。
