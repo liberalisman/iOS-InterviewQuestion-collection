@@ -341,6 +341,8 @@
 - 1.简要说一下常用的动画库。- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Animation/1.第一题.md)
 - 2.请说一下对 `CALayer` 的认识。- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Animation/2.第二题.md)
 - 3.解释一下 `CALayer.contents` 属性。- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Animation/3.第三题.md)
+- 4.隐式动画
+- 5.显式动画
 
 
 ## 代码管理、持续集成、项目托管
