@@ -202,6 +202,7 @@
 - 9.了解 `逆变` 和 `协变` 吗？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Foundation/9.第九题.md)
 - 10.`@synthesize` 和 `@dynamic` 分别有什么作用？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Foundation/10.第十题.md)
 - 11.`Obj-C` 中的反射机制了解吗？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Foundation/11.第十一题.md)
+- 12.`typeof` 和 `__typeof`，`__typeof__` 的区别? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Foundation/12.第十二题.md)
 
 ## 网络
 - 1.`NSUrlConnect`相关知识。
