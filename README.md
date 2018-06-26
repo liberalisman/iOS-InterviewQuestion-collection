@@ -203,6 +203,7 @@
 - 10.`@synthesize` 和 `@dynamic` 分别有什么作用？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Foundation/10.第十题.md)
 - 11.`Obj-C` 中的反射机制了解吗？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Foundation/11.第十一题.md)
 - 12.`typeof` 和 `__typeof`，`__typeof__` 的区别? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Foundation/12.第十二题.md)
+- 13.如何判断一个文件在沙盒中是否存在？
 
 ## 网络
 - 1.`NSUrlConnect`相关知识。
@@ -258,6 +259,8 @@
 - 19.如何自定义 `NSOperation` ? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/多线程/19.第十九题.md)
 - 20.`GCD` 与 `NSOperationQueue` 有哪些异同？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/多线程/20.第二十题.md)
 - 21.解释一下多线程中的死锁？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/多线程/21.第二十一题.md)
+- 22.子线程是否会出现死锁？说一下场景？
+- 23.多线程技术在使用过程中有哪些注意事项？
 
 
 
@@ -338,14 +341,16 @@
 * 2.在使用 `WKWedView` 时遇到过哪些问题？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/WebView/2.第二题.md)
 
 ## 图像处理
-- 1.图像的压缩、解压。
+- 1.一张物理体积20KB、分辨率为 200 * 300 的图片，在内存中占用多大的空间？
+- 2.图像的压缩、解压。
 
 ## iOS 动画
 - 1.简要说一下常用的动画库。- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Animation/1.第一题.md)
 - 2.请说一下对 `CALayer` 的认识。- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Animation/2.第二题.md)
 - 3.解释一下 `CALayer.contents` 属性。- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Animation/3.第三题.md)
-- 4.隐式动画
-- 5.显式动画
+- 4.在 `iOS` 中，动画有哪几种类型？
+- 5.隐式动画
+- 6.显式动画
 
 
 ## 代码管理、持续集成、项目托管
