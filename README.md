@@ -354,7 +354,7 @@
     - 2.`git merge` 和 `git rebase` 的区别？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/代码管理/1.1-2.md)
     - 3.如何在本地新建一个分支，并 `push` 到远程服务器上？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/代码管理/1.1-3.md)
     - 4.如果 `fork` 了一个别人的仓库，怎样与源仓库保持同步？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/代码管理/1.1-4.md)
-- 2.Svn
+- 2.SVN（个人认为过气了）
 - 3.CocoaPods
     - 1.说一下 `CocoaPods` 的原理？
     - 2.如何让自己写的框架支持 `CocoaPods`？
@@ -362,6 +362,7 @@
     - 4.`Podfile.lock` 文件起什么作用？
     - 5. `CocoaPods` 常用指令？
     - 6.在使用 `CocoaPods` 中遇到过哪些问题？
+    - 7.如何使用 `CocoaPods` 集成远程私有库？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/代码管理/3.3-7.md)
 - 4.Carthage
 - 5.Fastlane
 - 6.Jenkins
