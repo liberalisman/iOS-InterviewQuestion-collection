@@ -365,7 +365,7 @@
     - 2.如何让自己写的框架支持 `CocoaPods`？
     - 3.`pod update` 和 `pod install` 有什么区别？
     - 4.`Podfile.lock` 文件起什么作用？
-    - 5. `CocoaPods` 常用指令？
+    - 5.`CocoaPods` 常用指令？
     - 6.在使用 `CocoaPods` 中遇到过哪些问题？
     - 7.如何使用 `CocoaPods` 集成远程私有库？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/代码管理/3.3-7.md)
 - 4.Carthage
