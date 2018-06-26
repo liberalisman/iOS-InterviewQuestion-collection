@@ -434,6 +434,7 @@
 - 3.`App` 编译过程有了解吗？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/其他问题/3.第三题.md)
 - 4.说一下对 `APNS` 的认识？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/其他问题/4.第四题.md)
 - 5.`App` 上有一数据列表，客户端和服务端均没有任何缓存，当服务端有数据更新时，该列表在 `wifi` 下能获取到数据，在 4G 下刷新不到，但是在 4g 环境下其他 `App` 都可以正常打开，分析其产生的原因？
+- 6.是否了解链式编程？
 
 
 
