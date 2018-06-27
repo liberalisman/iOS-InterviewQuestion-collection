@@ -368,6 +368,7 @@
     - 5.`CocoaPods` 常用指令？
     - 6.在使用 `CocoaPods` 中遇到过哪些问题？
     - 7.如何使用 `CocoaPods` 集成远程私有库？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/代码管理/3.3-7.md)
+    - 8.如果自己写的库需要依赖其他的三方库，该怎么办？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/代码管理/3.3-8.md)
 - 4.Carthage
 - 5.Fastlane
 - 6.Jenkins
