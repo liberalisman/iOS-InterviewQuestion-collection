@@ -297,6 +297,7 @@
 - 15.`Block` 有几种类型？分别是什么？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/消息传递的方式/15.第十五题.md)
 - 16.`Block` 和 `函数指针` 的区别? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/消息传递的方式/16.第十六题.md)
 - 17.说一下什么是`Block`? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/消息传递的方式/16.第十六题.md)
+- 18.`Dispatch_block_t`这个有没有用过？解释一下？
 
 ## 数据存储
 - 1.Sqlite3 
