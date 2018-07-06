@@ -222,7 +222,7 @@
 - 11.说一下 `OSI` 七层模型的协议? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/网络/11.第十一题.md)
 - 12.`大文件下载` 的功能有什么注意点？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/网络/12.第十二题.md)
 - 13.`断点续传` 功能该怎么实现？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/网络/13.第十三题.md)
-- 14.封装一个网络框架有哪些注意点？
+- 14.封装一个网络框架有哪些注意点？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/网络/14.第十四题.md)
 - 15.`Wireshark`、`Charles`、`Paw` 等工具会使用吗？
 - 16.`NSUrlProtocol`用过吗？用在什么地方了？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/网络/16.第十六题.md)
 - 17.如何在测试过程中 `MOCK` 各种网络环境？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/网络/17.第十七题.md)
