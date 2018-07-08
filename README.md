@@ -344,6 +344,7 @@
 * 1.说一下 `JS` 和 `OC` 互相调用的几种方式？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/WebView/1.第一题.md)
 * 2.在使用 `WKWedView` 时遇到过哪些问题？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/WebView/2.第二题.md)
 * 3.是否了解 `UIWebView` 的插件化？
+* 4.是否了解 `SFSafariViewController` ？
 
 ## 图像处理
 - 1.一张物理体积20KB、分辨率为 200 * 300 的图片，在内存中占用多大的空间？
