@@ -23,7 +23,8 @@
 > 
 > 再次说明：所有的答案只写思路，不会长篇大论的验证，只起到提示作用。
 > 
-> 欢迎大家提 PR！！
+> 欢迎大家提 PR！！！
+
 
 
 
@@ -189,6 +190,7 @@
 - 8.如何暂停一个 `UIView` 中正在播放的动画？暂停后如何恢复？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/UIKit/8.第八题.md)
 - 9.说一下 `UIView` 的生命周期？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/UIKit/9.第九题.md)
 - 10.`UIViewController` 的生命周期？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/UIKit/10.第十题.md)
+- 11.如何以通用的方法找到当前显示的`ViewController`? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/UIKit/11.第十一题.md)
 
 ## Foundation
 - 1.`nil`、`NIL`、`NSNULL` 有什么区别？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Foundation/1.第一题.md)
@@ -220,7 +222,7 @@
 - 11.说一下 `OSI` 七层模型的协议? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/网络/11.第十一题.md)
 - 12.`大文件下载` 的功能有什么注意点？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/网络/12.第十二题.md)
 - 13.`断点续传` 功能该怎么实现？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/网络/13.第十三题.md)
-- 14.封装一个网络框架有哪些注意点？
+- 14.封装一个网络框架有哪些注意点？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/网络/14.第十四题.md)
 - 15.`Wireshark`、`Charles`、`Paw` 等工具会使用吗？
 - 16.`NSUrlProtocol`用过吗？用在什么地方了？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/网络/16.第十六题.md)
 - 17.如何在测试过程中 `MOCK` 各种网络环境？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/网络/17.第十七题.md)
@@ -341,6 +343,8 @@
 ## WebView
 * 1.说一下 `JS` 和 `OC` 互相调用的几种方式？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/WebView/1.第一题.md)
 * 2.在使用 `WKWedView` 时遇到过哪些问题？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/WebView/2.第二题.md)
+* 3.是否了解 `UIWebView` 的插件化？
+* 4.是否了解 `SFSafariViewController` ？
 
 ## 图像处理
 - 1.一张物理体积20KB、分辨率为 200 * 300 的图片，在内存中占用多大的空间？
@@ -372,6 +376,7 @@
     - 6.在使用 `CocoaPods` 中遇到过哪些问题？
     - 7.如何使用 `CocoaPods` 集成远程私有库？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/代码管理/3.3-7.md)
     - 8.如果自己写的库需要依赖其他的三方库，该怎么办？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/代码管理/3.3-8.md)
+    - 9.`CocoaPods` 中的 `Subspec` 字段有什么用处？
 - 4.Carthage
 - 5.Fastlane
 - 6.Jenkins
@@ -397,6 +402,8 @@
 - 5.Texture（ASDK）
 
 ## iOS逆向及安全
+
+## Coretext
 
 ## 项目组件化
 - 1.说一下你之前项目的组件化方案？
