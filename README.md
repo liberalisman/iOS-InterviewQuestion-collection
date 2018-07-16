@@ -414,14 +414,16 @@
 ## 性能优化
 - 1.如何提升 `tableview` 的流畅度？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/性能优化/1.第一题.md)
 - 2.如何使用 `Instruments` 进行性能调优？(Time Profiler、Zombies、Allocations、Leaks)
-- 3.如何优化 `APP` 的启动时间？（感谢 @静待海棠花开 的提醒）
-- 4.如何对 `APP` 进行内存、电量、网络流量的优化？（感谢 @静待海棠花开 的提醒）
+- 3.如何优化 `APP` 的启动时间？
+- 4.如何对 `APP` 进行网络流量的优化？
 - 5.如何有效降低 `APP` 包的大小？
 - 6.日常如何检查内存泄露？
 - 7.能不能说一下物理屏幕显示的原理？
 - 8.解释一下什么是屏幕卡顿、掉帧？该如何避免？
 - 9.什么是 `离屏渲染`？什么情况下会触发？该如何应对？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/性能优化/9.第九题.md)
 - 10.如何高性能的画一个圆角？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/性能优化/10.第十题.md)
+- 11.如何实现内存的优化？
+- 12.如何实现电量的优化？
 
 ## 调试技巧 & 软件使用
 - 1.`LLDB` 调试。
