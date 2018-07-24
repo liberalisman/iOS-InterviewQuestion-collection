@@ -210,6 +210,7 @@
 - 14.头文件导入的方式？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Foundation/14.第十四题.md)
 - 15.如何将 `Obj-C` 代码改变为 `C++/C` 的代码？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Foundation/15.第十五题.md)
 - 16.知不知道在哪里下载苹果的源代码？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Foundation/16.第十六题.md)
+- 17.`objc_getClass()`、`object_getClass()`、`Class` 这三个方法用来获取类对象有什么不同？
 
 ## 网络
 - 1.`NSUrlConnect`相关知识。
