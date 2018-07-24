@@ -155,7 +155,7 @@
 - 22.是否了解 `Type Encoding`? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Runtime/22.第二十二题.md)
 - 23.`Objective-C` 如何实现多重继承？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Runtime/23.第二十三题.md)
 - 24.`Category` 可不可以添加实例对象？为什么？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Runtime/24.第二十四题.md)
-- 25.`Obj-c`对象、类的本质是通过什么数据结构实现的？
+- 25.`Obj-c`对象、类的本质是通过什么数据结构实现的？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Runtime/25.第二十五题.md)
 
 
 ## Runloop
