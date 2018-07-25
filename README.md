@@ -153,7 +153,6 @@
 - 如何运用 Runtime 字典转模型？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Runtime/17.第十七题.md)
 - 如何运用 Runtime 进行模型的归解档？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Runtime/18.第十八题.md)
 - 在 Obj-C 中为什么叫发消息而不叫函数调用？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Runtime/19.第十九题.md)
-- 说一下对 Runtime 的理解。
 - 说一下 Runtime 的方法缓存？存储的形式、数据结构以及查找的过程？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Runtime/21.第二十一题.md)
 - 是否了解 Type Encoding? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Runtime/22.第二十二题.md)
 - Objective-C 如何实现多重继承？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Runtime/23.第二十三题.md)
