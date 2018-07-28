@@ -427,8 +427,8 @@
 - 8.解释一下什么是屏幕卡顿、掉帧？该如何避免？
 - 9.什么是 `离屏渲染`？什么情况下会触发？该如何应对？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/性能优化/9.第九题.md)
 - 10.如何高性能的画一个圆角？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/性能优化/10.第十题.md)
-- 11.如何实现内存的优化？
-- 12.如何实现电量的优化？
+- 11.如何优化 `APP` 的内存？
+- 12.如何优化 `APP` 的电量？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/性能优化/12.第十二题.md)
 
 ## 调试技巧 & 软件使用
 - 1.`LLDB` 调试。
