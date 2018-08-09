@@ -193,6 +193,7 @@
 - 9.说一下 `UIView` 的生命周期？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/UIKit/9.第九题.md)
 - 10.`UIViewController` 的生命周期？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/UIKit/10.第十题.md)
 - 11.如何以通用的方法找到当前显示的`ViewController`? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/UIKit/11.第十一题.md)
+- 12.`setNeedsDisplay` 和 `layoutIfNeeded` 两者是什么关系？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/UIKit/12.第十二题.md)
 
 ## Foundation
 - 1.`nil`、`NIL`、`NSNULL` 有什么区别？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/Foundation/1.第一题.md)
