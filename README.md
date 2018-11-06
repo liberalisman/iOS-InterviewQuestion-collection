@@ -437,6 +437,7 @@
 - 2.断点调试 - `breakPoint`。
 - 3.`NSAssert` 的使用。
 - 4.`Charles` 的使用。
+    - 使用 `Charles` 下载过去任意版本的 `App`。
 - 5.`Reveal` 的使用。
 - 6.`iOS` 常见的崩溃类型有哪些？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/调试技巧/6.第六题.md)
 - 7.当页面 `AutoLayout` 出现了问题，怎样快速调试？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/调试技巧/7.第七题.md)
