@@ -123,7 +123,7 @@
 - 13.函数返回一个对象时，会对对象 `autorelease` 么？为什么？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/内存管理/13.第十三题.md)
 - 14.说一下什么是 `悬垂指针`？什么是 `野指针`? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/内存管理/14.第十四题.md)
 - 15.内存管理默认的关键字是什么？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/内存管理/15.第十五题.md)
-- 16.*内存中的5大区分别是什么？ - [链接](https://github.com/YiYiZheng/iOS-InterviewQuestion-collection/blob/master/内存管理/16.第十六题.md)
+- 16.*内存中的5大区分别是什么？ - [链接](/内存管理/16.第十六题.md)
 - 17.是否了解 `深拷贝` 和 `浅拷贝` 的概念，集合类深拷贝如何实现？ - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/内存管理/17.第十七题.md)
 - 18.`BAD_ACCESS` 在什么情况下出现? - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/内存管理/18.第十八题.md)
 - 19.讲一下 `@dynamic` 关键字？- [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/内存管理/19.第十九题.md)
