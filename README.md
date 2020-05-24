@@ -29,7 +29,7 @@
 
 
 ### 推荐书目
-* 1.《Effective Objective-C 2.0》- [读书笔记（进行中）](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/读书笔记/Effective Objective-C.md)
+* 1.《Effective Objective-C 2.0》- [读书笔记（进行中）](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/读书笔记/Effective_Objective-C.md)
 * 2.《Objective-C 高级编程》
 * 3.《程序员的自我修养》
 * 4.《图解HTTP》
